@@ -1,0 +1,196 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score,extra_time,penalties
+AFC,Group,Vietnam,United Arab Emirates,0,2,0,0,0,0,False,False
+AFC,Group,Qatar,Iran,0,1,0,0,0,0,False,False
+AFC,Group,Vietnam,Qatar,2,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iran,2,1,0,0,0,0,False,False
+AFC,Group,Vietnam,Iran,0,2,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Qatar,1,1,0,0,0,0,False,False
+AFC,Group,Thailand,Iraq,1,1,0,0,0,0,False,False
+AFC,Group,Uzbekistan,Saudi Arabia,2,2,0,0,0,0,False,False
+AFC,Group,Thailand,Uzbekistan,1,2,0,0,0,0,False,False
+AFC,Group,Iraq,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Group,Thailand,Saudi Arabia,0,2,0,0,0,0,False,False
+AFC,Group,Iraq,Uzbekistan,2,0,0,0,0,0,False,False
+AFC,Group,Japan,Oman,1,1,0,0,0,0,False,False
+AFC,Group,Thailand,Indonesia,3,1,0,0,0,0,False,False
+AFC,Group,Japan,Thailand,3,1,0,0,0,0,False,False
+AFC,Group,Oman,Indonesia,2,1,0,0,0,0,False,False
+AFC,Group,Japan,Indonesia,5,0,0,0,0,0,False,False
+AFC,Group,Oman,Thailand,1,0,0,0,0,0,False,False
+AFC,Group,South Korea,China,2,0,0,0,0,0,False,False
+AFC,Group,Saudi Arabia,Malaysia,5,0,0,0,0,0,False,False
+AFC,Group,South Korea,Saudi Arabia,0,1,0,0,0,0,False,False
+AFC,Group,China,Malaysia,5,1,0,0,0,0,False,False
+AFC,Group,South Korea,Malaysia,5,1,0,0,0,0,False,False
+AFC,Group,China,Saudi Arabia,0,0,0,0,0,0,False,False
+AFC,Group,Qatar,Korea Republic,0,2,0,0,0,0,False,False
+AFC,Group,Uzbekistan,Kuwait,2,0,0,0,0,0,False,False
+AFC,Group,Qatar,Uzbekistan,2,1,0,0,0,0,False,False
+AFC,Group,Kuwait,Korea Republic,0,3,0,0,0,0,False,False
+AFC,Group,Qatar,Kuwait,2,0,0,0,0,0,False,False
+AFC,Group,Uzbekistan,Korea Republic,1,1,0,0,0,0,False,False
+AFC,Group,Japan,Jordan,2,1,0,0,0,0,False,False
+AFC,Group,Syria,Saudi Arabia,2,1,0,0,0,0,False,False
+AFC,Group,Japan,Syria,2,1,0,0,0,0,False,False
+AFC,Group,Jordan,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Group,Japan,Saudi Arabia,5,0,0,0,0,0,False,False
+AFC,Group,Jordan,Syria,2,1,0,0,0,0,False,False
+AFC,Group,Australia,India,4,0,0,0,0,0,False,False
+AFC,Group,Bahrain,South Korea,2,3,0,0,0,0,False,False
+AFC,Group,Australia,Bahrain,1,1,0,0,0,0,False,False
+AFC,Group,India,South Korea,1,4,0,0,0,0,False,False
+AFC,Group,Australia,South Korea,1,0,0,0,0,0,False,False
+AFC,Group,Bahrain,India,5,2,0,0,0,0,False,False
+AFC,Group,Iran,United Arab Emirates,2,1,0,0,0,0,False,False
+AFC,Group,Iraq,Jordan,1,0,0,0,0,0,False,False
+AFC,Group,Iran,Iraq,1,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Jordan,1,2,0,0,0,0,False,False
+AFC,Group,Iran,Jordan,2,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iraq,1,0,0,0,0,0,False,False
+AFC,Group,Australia,Kuwait,4,1,0,0,0,0,False,False
+AFC,Group,South Korea,Oman,1,1,0,0,0,0,False,False
+AFC,Group,Australia,Oman,4,0,0,0,0,0,False,False
+AFC,Group,South Korea,Kuwait,1,0,0,0,0,0,False,False
+AFC,Group,Australia,South Korea,2,1,0,0,0,0,False,False
+AFC,Group,Kuwait,Oman,1,1,0,0,0,0,False,False
+AFC,Group,China,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Group,North Korea,Uzbekistan,0,1,0,0,0,0,False,False
+AFC,Group,China,North Korea,2,1,0,0,0,0,False,False
+AFC,Group,Saudi Arabia,Uzbekistan,0,1,0,0,0,0,False,False
+AFC,Group,China,Uzbekistan,0,0,0,0,0,0,False,False
+AFC,Group,Saudi Arabia,North Korea,3,1,0,0,0,0,False,False
+AFC,Group,Japan,Iraq,1,0,0,0,0,0,False,False
+AFC,Group,Jordan,Palestine,5,1,0,0,0,0,False,False
+AFC,Group,Japan,Jordan,2,0,0,0,0,0,False,False
+AFC,Group,Iraq,Palestine,0,0,0,0,0,0,False,False
+AFC,Group,Japan,Palestine,4,0,0,0,0,0,False,False
+AFC,Group,Iraq,Jordan,0,1,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Qatar,4,1,0,0,0,0,False,False
+AFC,Group,Iran,Bahrain,2,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iran,1,0,0,0,0,0,False,False
+AFC,Group,Qatar,Bahrain,1,2,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Bahrain,3,2,0,0,0,0,False,False
+AFC,Group,Qatar,Iran,1,2,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Bahrain,1,1,0,0,0,0,False,False
+AFC,Group,Thailand,India,1,4,0,0,0,0,False,False
+AFC,Group,India,Bahrain,0,1,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Thailand,1,1,0,0,0,0,False,False
+AFC,Group,India,United Arab Emirates,0,2,0,0,0,0,False,False
+AFC,Group,Bahrain,Thailand,1,0,0,0,0,0,False,False
+AFC,Group,Australia,Syria,3,2,0,0,0,0,False,False
+AFC,Group,Palestine,Jordan,0,5,0,0,0,0,False,False
+AFC,Group,Jordan,Syria,2,0,0,0,0,0,False,False
+AFC,Group,Australia,Palestine,3,0,0,0,0,0,False,False
+AFC,Group,Syria,Palestine,3,2,0,0,0,0,False,False
+AFC,Group,Jordan,Australia,0,1,0,0,0,0,False,False
+AFC,Group,Iran,Yemen,5,0,0,0,0,0,False,False
+AFC,Group,Vietnam,Oman,0,1,0,0,0,0,False,False
+AFC,Group,Iran,Vietnam,2,0,0,0,0,0,False,False
+AFC,Group,Oman,Yemen,4,0,0,0,0,0,False,False
+AFC,Group,Yemen,Vietnam,0,2,0,0,0,0,False,False
+AFC,Group,Iran,Oman,2,0,0,0,0,0,False,False
+AFC,Group,Japan,Turkmenistan,3,2,0,0,0,0,False,False
+AFC,Group,Oman,Uzbekistan,2,1,0,0,0,0,False,False
+AFC,Group,Japan,Oman,2,1,0,0,0,0,False,False
+AFC,Group,Turkmenistan,Uzbekistan,2,1,0,0,0,0,False,False
+AFC,Group,Japan,Uzbekistan,2,1,0,0,0,0,False,False
+AFC,Group,Turkmenistan,Oman,1,3,0,0,0,0,False,False
+AFC,Group,South Korea,China,1,0,0,0,0,0,False,False
+AFC,Group,Philippines,Kyrgyzstan,0,3,0,0,0,0,False,False
+AFC,Group,South Korea,Philippines,1,0,0,0,0,0,False,False
+AFC,Group,China,Kyrgyzstan,2,1,0,0,0,0,False,False
+AFC,Group,Kyrgyzstan,South Korea,1,2,0,0,0,0,False,False
+AFC,Group,Philippines,China,0,3,0,0,0,0,False,False
+AFC,Group,Qatar,Lebanon,2,0,0,0,0,0,False,False
+AFC,Group,Syria,North Korea,1,1,0,0,0,0,False,False
+AFC,Group,Qatar,Syria,2,0,0,0,0,0,False,False
+AFC,Group,Lebanon,North Korea,4,1,0,0,0,0,False,False
+AFC,Group,North Korea,Qatar,1,2,0,0,0,0,False,False
+AFC,Group,Syria,Lebanon,1,2,0,0,0,0,False,False
+AFC,Group,Qatar,Tajikistan,2,0,0,0,0,0,False,False
+AFC,Group,Lebanon,Malaysia,1,1,0,0,0,0,False,False
+AFC,Group,Qatar,Lebanon,2,0,0,0,0,0,False,False
+AFC,Group,Tajikistan,Malaysia,1,1,0,0,0,0,False,False
+AFC,Group,Qatar,Malaysia,2,1,0,0,0,0,False,False
+AFC,Group,Tajikistan,Lebanon,1,2,0,0,0,0,False,False
+AFC,Group,Australia,Uzbekistan,1,1,0,0,0,0,False,False
+AFC,Group,Palestine,Syria,3,0,0,0,0,0,False,False
+AFC,Group,Australia,Palestine,3,0,0,0,0,0,False,False
+AFC,Group,Uzbekistan,Syria,1,2,0,0,0,0,False,False
+AFC,Group,Australia,Syria,2,1,0,0,0,0,False,False
+AFC,Group,Uzbekistan,Palestine,1,0,0,0,0,0,False,False
+AFC,Group,Iran,United Arab Emirates,2,1,0,0,0,0,False,False
+AFC,Group,Iraq,Vietnam,2,1,0,0,0,0,False,False
+AFC,Group,Iran,Iraq,1,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Vietnam,1,1,0,0,0,0,False,False
+AFC,Group,Iran,Vietnam,2,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iraq,0,1,0,0,0,0,False,False
+AFC,Group,Japan,Indonesia,4,2,0,0,0,0,False,False
+AFC,Group,Saudi Arabia,Thailand,2,1,0,0,0,0,False,False
+AFC,Group,Japan,Saudi Arabia,3,0,0,0,0,0,False,False
+AFC,Group,Indonesia,Thailand,1,2,0,0,0,0,False,False
+AFC,Group,Japan,Thailand,2,1,0,0,0,0,False,False
+AFC,Group,Saudi Arabia,Indonesia,3,0,0,0,0,0,False,False
+AFC,Group,South Korea,Malaysia,3,0,0,0,0,0,False,False
+AFC,Group,Lebanon,Vietnam,0,2,0,0,0,0,False,False
+AFC,Group,South Korea,Vietnam,2,1,0,0,0,0,False,False
+AFC,Group,Malaysia,Lebanon,1,1,0,0,0,0,False,False
+AFC,Group,South Korea,Lebanon,3,0,0,0,0,0,False,False
+AFC,Group,Vietnam,Malaysia,2,0,0,0,0,0,False,False
+AFC,Group,Japan,Iran,2,0,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iraq,0,1,0,0,0,0,False,False
+AFC,Group,Japan,United Arab Emirates,3,0,0,0,0,0,False,False
+AFC,Group,Iran,Iraq,2,2,0,0,0,0,False,False
+AFC,Group,Japan,Iraq,1,1,0,0,0,0,False,False
+AFC,Group,United Arab Emirates,Iran,1,2,0,0,0,0,False,False
+AFC,Knockout,Vietnam,Thailand,2,0,0,0,0,0,False,False
+AFC,Knockout,Japan,Uzbekistan,3,1,0,0,0,0,False,False
+AFC,Knockout,South Korea,Iran,4,2,0,0,0,0,False,False
+AFC,Knockout,Saudi Arabia,Iraq,0,1,0,0,0,0,False,False
+AFC,Knockout,Japan,South Korea,3,2,0,0,0,0,False,False
+AFC,Knockout,Vietnam,Iraq,1,1,1,0,0,0,True,False
+AFC,Knockout,Japan,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Knockout,Qatar,Iraq,0,2,0,0,0,0,False,False
+AFC,Knockout,Japan,South Korea,3,2,0,0,0,0,False,False
+AFC,Knockout,Australia,Jordan,1,0,0,0,0,0,False,False
+AFC,Knockout,Iran,Bahrain,3,2,0,0,0,0,False,False
+AFC,Knockout,Japan,Australia,3,0,0,0,0,0,False,False
+AFC,Knockout,Iraq,Iran,2,1,0,0,0,0,False,False
+AFC,Knockout,Japan,Australia,1,0,0,0,0,0,False,False
+AFC,Knockout,Australia,China,2,0,0,0,0,0,False,False
+AFC,Knockout,South Korea,Uzbekistan,2,0,0,0,0,0,False,False
+AFC,Knockout,Japan,Jordan,2,0,0,0,0,0,False,False
+AFC,Knockout,United Arab Emirates,Iran,2,1,0,0,0,0,False,False
+AFC,Knockout,Australia,United Arab Emirates,2,0,0,0,0,0,False,False
+AFC,Knockout,Japan,South Korea,2,0,0,0,0,0,False,False
+AFC,Knockout,Japan,Australia,2,1,0,0,0,0,False,False
+AFC,Knockout,Qatar,Iraq,1,0,0,0,0,0,False,False
+AFC,Knockout,Japan,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Knockout,South Korea,Bahrain,2,1,0,0,0,0,False,False
+AFC,Knockout,United Arab Emirates,Australia,1,0,0,0,0,0,False,False
+AFC,Knockout,Thailand,China,1,2,0,0,0,0,False,False
+AFC,Knockout,Vietnam,Jordan,1,1,1,0,0,0,True,False
+AFC,Knockout,Iran,Oman,2,0,0,0,0,0,False,False
+AFC,Knockout,Qatar,South Korea,1,1,0,0,4,3,True,True
+AFC,Knockout,Japan,Vietnam,1,0,0,0,0,0,False,False
+AFC,Knockout,Qatar,South Korea,1,0,0,0,0,0,False,False
+AFC,Knockout,Iran,Oman,2,0,0,0,0,0,False,False
+AFC,Knockout,United Arab Emirates,Thailand,2,1,0,0,0,0,False,False
+AFC,Knockout,Qatar,Iran,4,0,0,0,0,0,False,False
+AFC,Knockout,Japan,United Arab Emirates,1,0,0,0,0,0,False,False
+AFC,Knockout,Qatar,Japan,3,1,0,0,0,0,False,False
+AFC,Knockout,Qatar,Tajikistan,1,0,0,0,0,0,False,False
+AFC,Knockout,South Korea,Australia,2,1,1,0,0,0,True,False
+AFC,Knockout,Japan,Iran,2,3,0,0,0,0,False,False
+AFC,Knockout,Iraq,United Arab Emirates,1,0,0,0,0,0,False,False
+AFC,Knockout,Saudi Arabia,Vietnam,2,0,0,0,0,0,False,False
+AFC,Knockout,Thailand,Indonesia,1,1,0,0,4,3,True,True
+AFC,Knockout,Palestine,Malaysia,2,1,0,0,0,0,False,False
+AFC,Knockout,Syria,Lebanon,1,0,0,0,0,0,False,False
+AFC,Knockout,Qatar,Iraq,2,1,0,0,0,0,False,False
+AFC,Knockout,South Korea,Saudi Arabia,1,0,0,0,0,0,False,False
+AFC,Knockout,Thailand,Palestine,1,0,0,0,0,0,False,False
+AFC,Knockout,Indonesia,Syria,2,1,0,0,0,0,False,False
+AFC,Knockout,Qatar,South Korea,3,2,0,0,0,0,False,False
+AFC,Knockout,Thailand,Indonesia,1,1,0,0,3,4,True,True
+AFC,Knockout,Qatar,Jordan,3,1,0,0,0,0,False,False

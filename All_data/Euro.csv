@@ -1,0 +1,504 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score,extra_time,penalties
+Euro,group,Belgium,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Italy,Turkey,2,1,0,0,0,0,False,False
+Euro,group,Sweden,Turkey,0,0,0,0,0,0,False,False
+Euro,group,Italy,Belgium,2,0,0,0,0,0,False,False
+Euro,group,Belgium,Turkey,0,2,0,0,0,0,False,False
+Euro,group,Italy,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Romania,Germany,1,1,0,0,0,0,False,False
+Euro,group,England,Portugal,2,3,0,0,0,0,False,False
+Euro,group,Germany,England,1,0,0,0,0,0,False,False
+Euro,group,Romania,Portugal,0,1,0,0,0,0,False,False
+Euro,group,Portugal,Germany,3,0,0,0,0,0,False,False
+Euro,group,England,Romania,2,3,0,0,0,0,False,False
+Euro,group,Spain,Norway,0,1,0,0,0,0,False,False
+Euro,group,Yugoslavia,Slovenia,3,3,0,0,0,0,False,False
+Euro,group,Slovenia,Spain,1,2,0,0,0,0,False,False
+Euro,group,Norway,Yugoslavia,0,1,0,0,0,0,False,False
+Euro,group,Yugoslavia,Spain,3,4,0,0,0,0,False,False
+Euro,group,Norway,Slovenia,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Czech Republic,1,0,0,0,0,0,False,False
+Euro,group,France,Denmark,3,0,0,0,0,0,False,False
+Euro,group,Czech Republic,France,1,2,0,0,0,0,False,False
+Euro,group,Netherlands,Denmark,3,0,0,0,0,0,False,False
+Euro,group,Netherlands,France,3,2,0,0,0,0,False,False
+Euro,group,Czech Republic,Denmark,2,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Turkey,2,0,0,0,0,0,False,False
+Euro,knockout,Italy,Romania,2,0,0,0,0,0,False,False
+Euro,knockout,Netherlands,Yugoslavia,6,1,0,0,0,0,False,False
+Euro,knockout,Spain,France,1,2,0,0,0,0,False,False
+Euro,knockout,Portugal,France,1,1,0,1,0,0,True,False
+Euro,knockout,Netherlands,Italy,0,0,0,0,1,3,True,True
+Euro,knockout,France,Italy,1,1,1,0,0,0,True,False
+Euro,group,Portugal,Greece,1,2,0,0,0,0,False,False
+Euro,group,Spain,Russia,1,0,0,0,0,0,False,False
+Euro,group,Greece,Spain,1,1,0,0,0,0,False,False
+Euro,group,Russia,Portugal,0,2,0,0,0,0,False,False
+Euro,group,Spain,Portugal,0,1,0,0,0,0,False,False
+Euro,group,Russia,Greece,2,1,0,0,0,0,False,False
+Euro,group,Switzerland,Croatia,0,0,0,0,0,0,False,False
+Euro,group,France,England,2,1,0,0,0,0,False,False
+Euro,group,Croatia,France,2,2,0,0,0,0,False,False
+Euro,group,England,Switzerland,3,0,0,0,0,0,False,False
+Euro,group,Croatia,England,2,4,0,0,0,0,False,False
+Euro,group,Switzerland,France,1,3,0,0,0,0,False,False
+Euro,group,Bulgaria,Sweden,0,5,0,0,0,0,False,False
+Euro,group,Italy,Denmark,0,0,0,0,0,0,False,False
+Euro,group,Italy,Sweden,1,1,0,0,0,0,False,False
+Euro,group,Denmark,Bulgaria,2,0,0,0,0,0,False,False
+Euro,group,Denmark,Sweden,2,2,0,0,0,0,False,False
+Euro,group,Italy,Bulgaria,2,1,0,0,0,0,False,False
+Euro,group,Germany,Netherlands,1,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Latvia,2,1,0,0,0,0,False,False
+Euro,group,Latvia,Germany,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Czech Republic,2,3,0,0,0,0,False,False
+Euro,group,Netherlands,Latvia,3,0,0,0,0,0,False,False
+Euro,group,Germany,Czech Republic,1,2,0,0,0,0,False,False
+Euro,knockout,Portugal,England,2,2,1,0,6,5,True,True
+Euro,knockout,France,Greece,0,1,0,0,0,0,False,False
+Euro,knockout,Sweden,Netherlands,0,0,0,0,4,5,True,True
+Euro,knockout,Czech Republic,Denmark,3,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Netherlands,2,1,0,0,0,0,False,False
+Euro,knockout,Greece,Czech Republic,0,0,1,0,0,0,True,False
+Euro,knockout,Portugal,Greece,0,1,0,0,0,0,False,False
+Euro,group,Switzerland,Czech Republic,0,1,0,0,0,0,False,False
+Euro,group,Portugal,Turkey,2,0,0,0,0,0,False,False
+Euro,group,Czech Republic,Portugal,1,3,0,0,0,0,False,False
+Euro,group,Switzerland,Turkey,1,2,0,0,0,0,False,False
+Euro,group,Switzerland,Portugal,2,0,0,0,0,0,False,False
+Euro,group,Turkey,Czech Republic,2,2,0,0,0,0,False,False
+Euro,group,Austria,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Germany,Poland,2,0,0,0,0,0,False,False
+Euro,group,Croatia,Germany,2,1,0,0,0,0,False,False
+Euro,group,Austria,Poland,1,1,0,0,0,0,False,False
+Euro,group,Poland,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Austria,Germany,0,1,0,0,0,0,False,False
+Euro,group,Romania,France,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Italy,3,0,0,0,0,0,False,False
+Euro,group,Italy,Romania,1,1,0,0,0,0,False,False
+Euro,group,Netherlands,France,4,1,0,0,0,0,False,False
+Euro,group,Netherlands,Romania,2,0,0,0,0,0,False,False
+Euro,group,France,Italy,0,2,0,0,0,0,False,False
+Euro,group,Spain,Russia,4,1,0,0,0,0,False,False
+Euro,group,Greece,Sweden,0,2,0,0,0,0,False,False
+Euro,group,Sweden,Spain,1,2,0,0,0,0,False,False
+Euro,group,Greece,Russia,0,1,0,0,0,0,False,False
+Euro,group,Greece,Spain,1,2,0,0,0,0,False,False
+Euro,group,Russia,Sweden,2,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Germany,2,3,0,0,0,0,False,False
+Euro,knockout,Croatia,Turkey,0,0,1,1,1,3,True,True
+Euro,knockout,Netherlands,Russia,1,1,0,2,0,0,True,False
+Euro,knockout,Spain,Italy,0,0,0,0,4,2,True,True
+Euro,knockout,Germany,Turkey,3,2,0,0,0,0,False,False
+Euro,knockout,Russia,Spain,0,3,0,0,0,0,False,False
+Euro,knockout,Germany,Spain,0,1,0,0,0,0,False,False
+Euro,group,Poland,Greece,1,1,0,0,0,0,False,False
+Euro,group,Russia,Czech Republic,4,1,0,0,0,0,False,False
+Euro,group,Greece,Czech Republic,1,2,0,0,0,0,False,False
+Euro,group,Poland,Russia,1,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Poland,1,0,0,0,0,0,False,False
+Euro,group,Greece,Russia,1,0,0,0,0,0,False,False
+Euro,group,Netherlands,Denmark,0,1,0,0,0,0,False,False
+Euro,group,Germany,Portugal,1,0,0,0,0,0,False,False
+Euro,group,Denmark,Portugal,2,3,0,0,0,0,False,False
+Euro,group,Netherlands,Germany,1,2,0,0,0,0,False,False
+Euro,group,Portugal,Netherlands,2,1,0,0,0,0,False,False
+Euro,group,Denmark,Germany,1,2,0,0,0,0,False,False
+Euro,group,Spain,Italy,1,1,0,0,0,0,False,False
+Euro,group,Ireland,Croatia,1,3,0,0,0,0,False,False
+Euro,group,Italy,Croatia,1,1,0,0,0,0,False,False
+Euro,group,Spain,Ireland,4,0,0,0,0,0,False,False
+Euro,group,Croatia,Spain,0,1,0,0,0,0,False,False
+Euro,group,Italy,Ireland,2,0,0,0,0,0,False,False
+Euro,group,France,England,1,1,0,0,0,0,False,False
+Euro,group,Ukraine,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Ukraine,France,0,2,0,0,0,0,False,False
+Euro,group,Sweden,England,2,3,0,0,0,0,False,False
+Euro,group,England,Ukraine,1,0,0,0,0,0,False,False
+Euro,group,Sweden,France,2,0,0,0,0,0,False,False
+Euro,knockout,Czech Republic,Portugal,0,1,0,0,0,0,False,False
+Euro,knockout,Germany,Greece,4,2,0,0,0,0,False,False
+Euro,knockout,Spain,France,2,0,0,0,0,0,False,False
+Euro,knockout,England,Italy,0,0,0,0,2,4,True,True
+Euro,knockout,Portugal,Spain,0,0,0,0,2,4,True,True
+Euro,knockout,Germany,Italy,1,2,0,0,0,0,False,False
+Euro,knockout,Spain,Italy,4,0,0,0,0,0,False,False
+Euro,group,France,Romania,2,1,0,0,0,0,False,False
+Euro,group,Albania,Switzerland,0,1,0,0,0,0,False,False
+Euro,group,Romania,Switzerland,1,1,0,0,0,0,False,False
+Euro,group,France,Albania,2,0,0,0,0,0,False,False
+Euro,group,Switzerland,France,0,0,0,0,0,0,False,False
+Euro,group,Romania,Albania,0,1,0,0,0,0,False,False
+Euro,group,Wales,Slovakia,2,1,0,0,0,0,False,False
+Euro,group,England,Russia,1,1,0,0,0,0,False,False
+Euro,group,Russia,Slovakia,1,2,0,0,0,0,False,False
+Euro,group,England,Wales,2,1,0,0,0,0,False,False
+Euro,group,Russia,Wales,0,3,0,0,0,0,False,False
+Euro,group,Slovakia,England,0,0,0,0,0,0,False,False
+Euro,group,Poland,Northern Ireland,1,0,0,0,0,0,False,False
+Euro,group,Germany,Ukraine,2,0,0,0,0,0,False,False
+Euro,group,Ukraine,Northern Ireland,0,2,0,0,0,0,False,False
+Euro,group,Germany,Poland,0,0,0,0,0,0,False,False
+Euro,group,Ukraine,Poland,0,1,0,0,0,0,False,False
+Euro,group,Northern Ireland,Germany,0,1,0,0,0,0,False,False
+Euro,group,Turkey,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Spain,Czech Republic,1,0,0,0,0,0,False,False
+Euro,group,Czech Republic,Croatia,2,2,0,0,0,0,False,False
+Euro,group,Spain,Turkey,3,0,0,0,0,0,False,False
+Euro,group,Croatia,Spain,2,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Turkey,0,2,0,0,0,0,False,False
+Euro,group,Ireland,Sweden,1,1,0,0,0,0,False,False
+Euro,group,Belgium,Italy,0,2,0,0,0,0,False,False
+Euro,group,Italy,Sweden,1,0,0,0,0,0,False,False
+Euro,group,Belgium,Ireland,3,0,0,0,0,0,False,False
+Euro,group,Italy,Ireland,0,1,0,0,0,0,False,False
+Euro,group,Sweden,Belgium,0,1,0,0,0,0,False,False
+Euro,group,Austria,Hungary,0,2,0,0,0,0,False,False
+Euro,group,Portugal,Iceland,1,1,0,0,0,0,False,False
+Euro,group,Iceland,Hungary,1,1,0,0,0,0,False,False
+Euro,group,Portugal,Austria,0,0,0,0,0,0,False,False
+Euro,group,Hungary,Portugal,3,3,0,0,0,0,False,False
+Euro,group,Iceland,Austria,2,1,0,0,0,0,False,False
+Euro,knockout,Switzerland,Poland,1,1,0,0,4,5,True,True
+Euro,knockout,Wales,Northern Ireland,1,0,0,0,0,0,False,False
+Euro,knockout,Croatia,Portugal,0,0,0,1,0,0,True,False
+Euro,knockout,France,Ireland,2,1,0,0,0,0,False,False
+Euro,knockout,Germany,Slovakia,3,0,0,0,0,0,False,False
+Euro,knockout,Hungary,Belgium,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Spain,2,0,0,0,0,0,False,False
+Euro,knockout,England,Iceland,1,2,0,0,0,0,False,False
+Euro,knockout,Poland,Portugal,1,1,0,0,3,5,True,True
+Euro,knockout,Wales,Belgium,3,1,0,0,0,0,False,False
+Euro,knockout,Germany,Italy,1,1,0,0,6,5,True,True
+Euro,knockout,France,Iceland,5,2,0,0,0,0,False,False
+Euro,knockout,Portugal,Wales,2,0,0,0,0,0,False,False
+Euro,knockout,Germany,France,0,2,0,0,0,0,False,False
+Euro,knockout,Portugal,France,0,0,1,0,0,0,True,False
+Euro,group,Turkey,Italy,0,3,0,0,0,0,False,False
+Euro,group,Wales,Switzerland,1,1,0,0,0,0,False,False
+Euro,group,Turkey,Wales,0,2,0,0,0,0,False,False
+Euro,group,Italy,Switzerland,3,0,0,0,0,0,False,False
+Euro,group,Switzerland,Turkey,3,1,0,0,0,0,False,False
+Euro,group,Italy,Wales,1,0,0,0,0,0,False,False
+Euro,group,Denmark,Finland,0,1,0,0,0,0,False,False
+Euro,group,Belgium,Russia,3,0,0,0,0,0,False,False
+Euro,group,Finland,Russia,0,1,0,0,0,0,False,False
+Euro,group,Denmark,Belgium,1,2,0,0,0,0,False,False
+Euro,group,Russia,Denmark,1,4,0,0,0,0,False,False
+Euro,group,Finland,Belgium,0,2,0,0,0,0,False,False
+Euro,group,Austria,North Macedonia,3,1,0,0,0,0,False,False
+Euro,group,Netherlands,Ukraine,3,2,0,0,0,0,False,False
+Euro,group,Ukraine,North Macedonia,2,1,0,0,0,0,False,False
+Euro,group,Netherlands,Austria,2,0,0,0,0,0,False,False
+Euro,group,North Macedonia,Netherlands,0,3,0,0,0,0,False,False
+Euro,group,Ukraine,Austria,0,1,0,0,0,0,False,False
+Euro,group,England,Croatia,1,0,0,0,0,0,False,False
+Euro,group,Scotland,Czech Republic,0,2,0,0,0,0,False,False
+Euro,group,Croatia,Czech Republic,1,1,0,0,0,0,False,False
+Euro,group,England,Scotland,0,0,0,0,0,0,False,False
+Euro,group,Croatia,Scotland,3,1,0,0,0,0,False,False
+Euro,group,Czech Republic,England,0,1,0,0,0,0,False,False
+Euro,group,Poland,Slovakia,1,2,0,0,0,0,False,False
+Euro,group,Spain,Sweden,0,0,0,0,0,0,False,False
+Euro,group,Sweden,Slovakia,1,0,0,0,0,0,False,False
+Euro,group,Spain,Poland,1,1,0,0,0,0,False,False
+Euro,group,Slovakia,Spain,0,5,0,0,0,0,False,False
+Euro,group,Sweden,Poland,3,2,0,0,0,0,False,False
+Euro,group,Hungary,Portugal,0,3,0,0,0,0,False,False
+Euro,group,France,Germany,1,0,0,0,0,0,False,False
+Euro,group,Hungary,France,1,1,0,0,0,0,False,False
+Euro,group,Portugal,Germany,2,4,0,0,0,0,False,False
+Euro,group,Portugal,France,2,2,0,0,0,0,False,False
+Euro,group,Germany,Hungary,2,2,0,0,0,0,False,False
+Euro,knockout,Wales,Denmark,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Austria,0,0,2,1,0,0,True,False
+Euro,knockout,Netherlands,Czech Republic,0,2,0,0,0,0,False,False
+Euro,knockout,Belgium,Portugal,1,0,0,0,0,0,False,False
+Euro,knockout,Croatia,Spain,3,3,0,2,0,0,True,False
+Euro,knockout,France,Switzerland,3,3,0,0,4,5,True,True
+Euro,knockout,England,Germany,2,0,0,0,0,0,False,False
+Euro,knockout,Sweden,Ukraine,1,1,0,1,0,0,True,False
+Euro,knockout,Switzerland,Spain,1,1,0,0,1,3,True,True
+Euro,knockout,Belgium,Italy,1,2,0,0,0,0,False,False
+Euro,knockout,Czech Republic,Denmark,1,2,0,0,0,0,False,False
+Euro,knockout,Ukraine,England,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Spain,1,1,0,0,4,2,True,True
+Euro,knockout,England,Denmark,1,1,1,0,0,0,True,False
+Euro,knockout,Italy,England,1,1,0,0,3,2,True,True
+Euro,group,Belgium,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Italy,Turkey,2,1,0,0,0,0,False,False
+Euro,group,Sweden,Turkey,0,0,0,0,0,0,False,False
+Euro,group,Italy,Belgium,2,0,0,0,0,0,False,False
+Euro,group,Belgium,Turkey,0,2,0,0,0,0,False,False
+Euro,group,Italy,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Romania,Germany,1,1,0,0,0,0,False,False
+Euro,group,England,Portugal,2,3,0,0,0,0,False,False
+Euro,group,Germany,England,1,0,0,0,0,0,False,False
+Euro,group,Romania,Portugal,0,1,0,0,0,0,False,False
+Euro,group,Portugal,Germany,3,0,0,0,0,0,False,False
+Euro,group,England,Romania,2,3,0,0,0,0,False,False
+Euro,group,Spain,Norway,0,1,0,0,0,0,False,False
+Euro,group,Yugoslavia,Slovenia,3,3,0,0,0,0,False,False
+Euro,group,Slovenia,Spain,1,2,0,0,0,0,False,False
+Euro,group,Norway,Yugoslavia,0,1,0,0,0,0,False,False
+Euro,group,Yugoslavia,Spain,3,4,0,0,0,0,False,False
+Euro,group,Norway,Slovenia,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Czech Republic,1,0,0,0,0,0,False,False
+Euro,group,France,Denmark,3,0,0,0,0,0,False,False
+Euro,group,Czech Republic,France,1,2,0,0,0,0,False,False
+Euro,group,Netherlands,Denmark,3,0,0,0,0,0,False,False
+Euro,group,Netherlands,France,3,2,0,0,0,0,False,False
+Euro,group,Czech Republic,Denmark,2,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Turkey,2,0,0,0,0,0,False,False
+Euro,knockout,Italy,Romania,2,0,0,0,0,0,False,False
+Euro,knockout,Netherlands,Yugoslavia,6,1,0,0,0,0,False,False
+Euro,knockout,Spain,France,1,2,0,0,0,0,False,False
+Euro,knockout,Portugal,France,1,1,0,1,0,0,True,False
+Euro,knockout,Netherlands,Italy,0,0,0,0,1,3,True,True
+Euro,knockout,France,Italy,1,1,1,0,0,0,True,False
+Euro,group,Portugal,Greece,1,2,0,0,0,0,False,False
+Euro,group,Spain,Russia,1,0,0,0,0,0,False,False
+Euro,group,Greece,Spain,1,1,0,0,0,0,False,False
+Euro,group,Russia,Portugal,0,2,0,0,0,0,False,False
+Euro,group,Spain,Portugal,0,1,0,0,0,0,False,False
+Euro,group,Russia,Greece,2,1,0,0,0,0,False,False
+Euro,group,Switzerland,Croatia,0,0,0,0,0,0,False,False
+Euro,group,France,England,2,1,0,0,0,0,False,False
+Euro,group,Croatia,France,2,2,0,0,0,0,False,False
+Euro,group,England,Switzerland,3,0,0,0,0,0,False,False
+Euro,group,Croatia,England,2,4,0,0,0,0,False,False
+Euro,group,Switzerland,France,1,3,0,0,0,0,False,False
+Euro,group,Bulgaria,Sweden,0,5,0,0,0,0,False,False
+Euro,group,Italy,Denmark,0,0,0,0,0,0,False,False
+Euro,group,Italy,Sweden,1,1,0,0,0,0,False,False
+Euro,group,Denmark,Bulgaria,2,0,0,0,0,0,False,False
+Euro,group,Denmark,Sweden,2,2,0,0,0,0,False,False
+Euro,group,Italy,Bulgaria,2,1,0,0,0,0,False,False
+Euro,group,Germany,Netherlands,1,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Latvia,2,1,0,0,0,0,False,False
+Euro,group,Latvia,Germany,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Czech Republic,2,3,0,0,0,0,False,False
+Euro,group,Netherlands,Latvia,3,0,0,0,0,0,False,False
+Euro,group,Germany,Czech Republic,1,2,0,0,0,0,False,False
+Euro,knockout,Portugal,England,2,2,1,0,6,5,True,True
+Euro,knockout,France,Greece,0,1,0,0,0,0,False,False
+Euro,knockout,Sweden,Netherlands,0,0,0,0,4,5,True,True
+Euro,knockout,Czech Republic,Denmark,3,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Netherlands,2,1,0,0,0,0,False,False
+Euro,knockout,Greece,Czech Republic,0,0,1,0,0,0,True,False
+Euro,knockout,Portugal,Greece,0,1,0,0,0,0,False,False
+Euro,group,Switzerland,Czech Republic,0,1,0,0,0,0,False,False
+Euro,group,Portugal,Turkey,2,0,0,0,0,0,False,False
+Euro,group,Czech Republic,Portugal,1,3,0,0,0,0,False,False
+Euro,group,Switzerland,Turkey,1,2,0,0,0,0,False,False
+Euro,group,Switzerland,Portugal,2,0,0,0,0,0,False,False
+Euro,group,Turkey,Czech Republic,2,2,0,0,0,0,False,False
+Euro,group,Austria,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Germany,Poland,2,0,0,0,0,0,False,False
+Euro,group,Croatia,Germany,2,1,0,0,0,0,False,False
+Euro,group,Austria,Poland,1,1,0,0,0,0,False,False
+Euro,group,Poland,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Austria,Germany,0,1,0,0,0,0,False,False
+Euro,group,Romania,France,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Italy,3,0,0,0,0,0,False,False
+Euro,group,Italy,Romania,1,1,0,0,0,0,False,False
+Euro,group,Netherlands,France,4,1,0,0,0,0,False,False
+Euro,group,Netherlands,Romania,2,0,0,0,0,0,False,False
+Euro,group,France,Italy,0,2,0,0,0,0,False,False
+Euro,group,Spain,Russia,4,1,0,0,0,0,False,False
+Euro,group,Greece,Sweden,0,2,0,0,0,0,False,False
+Euro,group,Sweden,Spain,1,2,0,0,0,0,False,False
+Euro,group,Greece,Russia,0,1,0,0,0,0,False,False
+Euro,group,Greece,Spain,1,2,0,0,0,0,False,False
+Euro,group,Russia,Sweden,2,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Germany,2,3,0,0,0,0,False,False
+Euro,knockout,Croatia,Turkey,0,0,1,1,1,3,True,True
+Euro,knockout,Netherlands,Russia,1,1,0,2,0,0,True,False
+Euro,knockout,Spain,Italy,0,0,0,0,4,2,True,True
+Euro,knockout,Germany,Turkey,3,2,0,0,0,0,False,False
+Euro,knockout,Russia,Spain,0,3,0,0,0,0,False,False
+Euro,knockout,Germany,Spain,0,1,0,0,0,0,False,False
+Euro,group,Poland,Greece,1,1,0,0,0,0,False,False
+Euro,group,Russia,Czech Republic,4,1,0,0,0,0,False,False
+Euro,group,Greece,Czech Republic,1,2,0,0,0,0,False,False
+Euro,group,Poland,Russia,1,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Poland,1,0,0,0,0,0,False,False
+Euro,group,Greece,Russia,1,0,0,0,0,0,False,False
+Euro,group,Netherlands,Denmark,0,1,0,0,0,0,False,False
+Euro,group,Germany,Portugal,1,0,0,0,0,0,False,False
+Euro,group,Denmark,Portugal,2,3,0,0,0,0,False,False
+Euro,group,Netherlands,Germany,1,2,0,0,0,0,False,False
+Euro,group,Portugal,Netherlands,2,1,0,0,0,0,False,False
+Euro,group,Denmark,Germany,1,2,0,0,0,0,False,False
+Euro,group,Spain,Italy,1,1,0,0,0,0,False,False
+Euro,group,Ireland,Croatia,1,3,0,0,0,0,False,False
+Euro,group,Italy,Croatia,1,1,0,0,0,0,False,False
+Euro,group,Spain,Ireland,4,0,0,0,0,0,False,False
+Euro,group,Croatia,Spain,0,1,0,0,0,0,False,False
+Euro,group,Italy,Ireland,2,0,0,0,0,0,False,False
+Euro,group,France,England,1,1,0,0,0,0,False,False
+Euro,group,Ukraine,Sweden,2,1,0,0,0,0,False,False
+Euro,group,Ukraine,France,0,2,0,0,0,0,False,False
+Euro,group,Sweden,England,2,3,0,0,0,0,False,False
+Euro,group,England,Ukraine,1,0,0,0,0,0,False,False
+Euro,group,Sweden,France,2,0,0,0,0,0,False,False
+Euro,knockout,Czech Republic,Portugal,0,1,0,0,0,0,False,False
+Euro,knockout,Germany,Greece,4,2,0,0,0,0,False,False
+Euro,knockout,Spain,France,2,0,0,0,0,0,False,False
+Euro,knockout,England,Italy,0,0,0,0,2,4,True,True
+Euro,knockout,Portugal,Spain,0,0,0,0,2,4,True,True
+Euro,knockout,Germany,Italy,1,2,0,0,0,0,False,False
+Euro,knockout,Spain,Italy,4,0,0,0,0,0,False,False
+Euro,group,France,Romania,2,1,0,0,0,0,False,False
+Euro,group,Albania,Switzerland,0,1,0,0,0,0,False,False
+Euro,group,Romania,Switzerland,1,1,0,0,0,0,False,False
+Euro,group,France,Albania,2,0,0,0,0,0,False,False
+Euro,group,Switzerland,France,0,0,0,0,0,0,False,False
+Euro,group,Romania,Albania,0,1,0,0,0,0,False,False
+Euro,group,Wales,Slovakia,2,1,0,0,0,0,False,False
+Euro,group,England,Russia,1,1,0,0,0,0,False,False
+Euro,group,Russia,Slovakia,1,2,0,0,0,0,False,False
+Euro,group,England,Wales,2,1,0,0,0,0,False,False
+Euro,group,Russia,Wales,0,3,0,0,0,0,False,False
+Euro,group,Slovakia,England,0,0,0,0,0,0,False,False
+Euro,group,Poland,Northern Ireland,1,0,0,0,0,0,False,False
+Euro,group,Germany,Ukraine,2,0,0,0,0,0,False,False
+Euro,group,Ukraine,Northern Ireland,0,2,0,0,0,0,False,False
+Euro,group,Germany,Poland,0,0,0,0,0,0,False,False
+Euro,group,Ukraine,Poland,0,1,0,0,0,0,False,False
+Euro,group,Northern Ireland,Germany,0,1,0,0,0,0,False,False
+Euro,group,Turkey,Croatia,0,1,0,0,0,0,False,False
+Euro,group,Spain,Czech Republic,1,0,0,0,0,0,False,False
+Euro,group,Czech Republic,Croatia,2,2,0,0,0,0,False,False
+Euro,group,Spain,Turkey,3,0,0,0,0,0,False,False
+Euro,group,Croatia,Spain,2,1,0,0,0,0,False,False
+Euro,group,Czech Republic,Turkey,0,2,0,0,0,0,False,False
+Euro,group,Ireland,Sweden,1,1,0,0,0,0,False,False
+Euro,group,Belgium,Italy,0,2,0,0,0,0,False,False
+Euro,group,Italy,Sweden,1,0,0,0,0,0,False,False
+Euro,group,Belgium,Ireland,3,0,0,0,0,0,False,False
+Euro,group,Italy,Ireland,0,1,0,0,0,0,False,False
+Euro,group,Sweden,Belgium,0,1,0,0,0,0,False,False
+Euro,group,Austria,Hungary,0,2,0,0,0,0,False,False
+Euro,group,Portugal,Iceland,1,1,0,0,0,0,False,False
+Euro,group,Iceland,Hungary,1,1,0,0,0,0,False,False
+Euro,group,Portugal,Austria,0,0,0,0,0,0,False,False
+Euro,group,Hungary,Portugal,3,3,0,0,0,0,False,False
+Euro,group,Iceland,Austria,2,1,0,0,0,0,False,False
+Euro,knockout,Switzerland,Poland,1,1,0,0,4,5,True,True
+Euro,knockout,Wales,Northern Ireland,1,0,0,0,0,0,False,False
+Euro,knockout,Croatia,Portugal,0,0,0,1,0,0,True,False
+Euro,knockout,France,Ireland,2,1,0,0,0,0,False,False
+Euro,knockout,Germany,Slovakia,3,0,0,0,0,0,False,False
+Euro,knockout,Hungary,Belgium,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Spain,2,0,0,0,0,0,False,False
+Euro,knockout,England,Iceland,1,2,0,0,0,0,False,False
+Euro,knockout,Poland,Portugal,1,1,0,0,3,5,True,True
+Euro,knockout,Wales,Belgium,3,1,0,0,0,0,False,False
+Euro,knockout,Germany,Italy,1,1,0,0,6,5,True,True
+Euro,knockout,France,Iceland,5,2,0,0,0,0,False,False
+Euro,knockout,Portugal,Wales,2,0,0,0,0,0,False,False
+Euro,knockout,Germany,France,0,2,0,0,0,0,False,False
+Euro,knockout,Portugal,France,0,0,1,0,0,0,True,False
+Euro,group,Turkey,Italy,0,3,0,0,0,0,False,False
+Euro,group,Wales,Switzerland,1,1,0,0,0,0,False,False
+Euro,group,Turkey,Wales,0,2,0,0,0,0,False,False
+Euro,group,Italy,Switzerland,3,0,0,0,0,0,False,False
+Euro,group,Switzerland,Turkey,3,1,0,0,0,0,False,False
+Euro,group,Italy,Wales,1,0,0,0,0,0,False,False
+Euro,group,Denmark,Finland,0,1,0,0,0,0,False,False
+Euro,group,Belgium,Russia,3,0,0,0,0,0,False,False
+Euro,group,Finland,Russia,0,1,0,0,0,0,False,False
+Euro,group,Denmark,Belgium,1,2,0,0,0,0,False,False
+Euro,group,Russia,Denmark,1,4,0,0,0,0,False,False
+Euro,group,Finland,Belgium,0,2,0,0,0,0,False,False
+Euro,group,Austria,North Macedonia,3,1,0,0,0,0,False,False
+Euro,group,Netherlands,Ukraine,3,2,0,0,0,0,False,False
+Euro,group,Ukraine,North Macedonia,2,1,0,0,0,0,False,False
+Euro,group,Netherlands,Austria,2,0,0,0,0,0,False,False
+Euro,group,North Macedonia,Netherlands,0,3,0,0,0,0,False,False
+Euro,group,Ukraine,Austria,0,1,0,0,0,0,False,False
+Euro,group,England,Croatia,1,0,0,0,0,0,False,False
+Euro,group,Scotland,Czech Republic,0,2,0,0,0,0,False,False
+Euro,group,Croatia,Czech Republic,1,1,0,0,0,0,False,False
+Euro,group,England,Scotland,0,0,0,0,0,0,False,False
+Euro,group,Croatia,Scotland,3,1,0,0,0,0,False,False
+Euro,group,Czech Republic,England,0,1,0,0,0,0,False,False
+Euro,group,Poland,Slovakia,1,2,0,0,0,0,False,False
+Euro,group,Spain,Sweden,0,0,0,0,0,0,False,False
+Euro,group,Sweden,Slovakia,1,0,0,0,0,0,False,False
+Euro,group,Spain,Poland,1,1,0,0,0,0,False,False
+Euro,group,Slovakia,Spain,0,5,0,0,0,0,False,False
+Euro,group,Sweden,Poland,3,2,0,0,0,0,False,False
+Euro,group,Hungary,Portugal,0,3,0,0,0,0,False,False
+Euro,group,France,Germany,1,0,0,0,0,0,False,False
+Euro,group,Hungary,France,1,1,0,0,0,0,False,False
+Euro,group,Portugal,Germany,2,4,0,0,0,0,False,False
+Euro,group,Portugal,France,2,2,0,0,0,0,False,False
+Euro,group,Germany,Hungary,2,2,0,0,0,0,False,False
+Euro,knockout,Wales,Denmark,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Austria,0,0,2,1,0,0,True,False
+Euro,knockout,Netherlands,Czech Republic,0,2,0,0,0,0,False,False
+Euro,knockout,Belgium,Portugal,1,0,0,0,0,0,False,False
+Euro,knockout,Croatia,Spain,3,3,0,2,0,0,True,False
+Euro,knockout,France,Switzerland,3,3,0,0,4,5,True,True
+Euro,knockout,England,Germany,2,0,0,0,0,0,False,False
+Euro,knockout,Sweden,Ukraine,1,1,0,1,0,0,True,False
+Euro,knockout,Switzerland,Spain,1,1,0,0,1,3,True,True
+Euro,knockout,Belgium,Italy,1,2,0,0,0,0,False,False
+Euro,knockout,Czech Republic,Denmark,1,2,0,0,0,0,False,False
+Euro,knockout,Ukraine,England,0,4,0,0,0,0,False,False
+Euro,knockout,Italy,Spain,1,1,0,0,4,2,True,True
+Euro,knockout,England,Denmark,1,1,1,0,0,0,True,False
+Euro,knockout,Italy,England,1,1,0,0,3,2,True,True
+Euro,group,Germany,Scotland,5,1,0,0,0,0,False,False
+Euro,group,Hungary,Switzerland,1,3,0,0,0,0,False,False
+Euro,group,Germany,Hungary,2,0,0,0,0,0,False,False
+Euro,group,Scotland,Switzerland,1,1,0,0,0,0,False,False
+Euro,group,Switzerland,Germany,1,1,0,0,0,0,False,False
+Euro,group,Scotland,Hungary,0,1,0,0,0,0,False,False
+Euro,group,Spain,Croatia,3,0,0,0,0,0,False,False
+Euro,group,Italy,Albania,2,1,0,0,0,0,False,False
+Euro,group,Croatia,Albania,2,2,0,0,0,0,False,False
+Euro,group,Spain,Italy,1,0,0,0,0,0,False,False
+Euro,group,Albania,Spain,0,1,0,0,0,0,False,False
+Euro,group,Croatia,Italy,1,1,0,0,0,0,False,False
+Euro,group,Slovenia,Denmark,1,1,0,0,0,0,False,False
+Euro,group,Serbia,England,0,1,0,0,0,0,False,False
+Euro,group,Slovenia,Serbia,1,1,0,0,0,0,False,False
+Euro,group,Denmark,England,1,1,0,0,0,0,False,False
+Euro,group,England,Slovenia,0,0,0,0,0,0,False,False
+Euro,group,Denmark,Serbia,0,0,0,0,0,0,False,False
+Euro,group,Poland,Netherlands,1,2,0,0,0,0,False,False
+Euro,group,Austria,France,0,1,0,0,0,0,False,False
+Euro,group,Poland,Austria,1,3,0,0,0,0,False,False
+Euro,group,Netherlands,France,0,0,0,0,0,0,False,False
+Euro,group,Netherlands,Austria,2,3,0,0,0,0,False,False
+Euro,group,France,Poland,1,1,0,0,0,0,False,False
+Euro,group,Romania,Ukraine,3,0,0,0,0,0,False,False
+Euro,group,Belgium,Slovakia,0,1,0,0,0,0,False,False
+Euro,group,Slovakia,Ukraine,1,2,0,0,0,0,False,False
+Euro,group,Belgium,Romania,2,0,0,0,0,0,False,False
+Euro,group,Slovakia,Romania,1,1,0,0,0,0,False,False
+Euro,group,Ukraine,Belgium,0,0,0,0,0,0,False,False
+Euro,group,Turkey,Georgia,3,1,0,0,0,0,False,False
+Euro,group,Portugal,Czech Republic,2,1,0,0,0,0,False,False
+Euro,group,Georgia,Czech Republic,1,1,0,0,0,0,False,False
+Euro,group,Turkey,Portugal,0,3,0,0,0,0,False,False
+Euro,group,Georgia,Portugal,2,0,0,0,0,0,False,False
+Euro,group,Czech Republic,Turkey,1,2,0,0,0,0,False,False
+Euro,knockout,Switzerland,Italy,2,0,0,0,0,0,False,False
+Euro,knockout,Germany,Denmark,2,0,0,0,0,0,False,False
+Euro,knockout,England,Slovakia,2,1,0,0,0,0,False,False
+Euro,knockout,Spain,Georgia,4,1,0,0,0,0,False,False
+Euro,knockout,France,Belgium,1,0,0,0,0,0,False,False
+Euro,knockout,Portugal,Slovenia,0,0,0,0,3,0,True,True
+Euro,knockout,Romania,Netherlands,0,3,0,0,0,0,False,False
+Euro,knockout,Austria,Turkey,1,2,0,0,0,0,False,False
+Euro,knockout,Spain,Germany,2,1,1,0,0,0,True,False
+Euro,knockout,Portugal,France,0,0,0,0,3,5,True,True
+Euro,knockout,England,Switzerland,1,1,0,0,5,3,True,True
+Euro,knockout,Netherlands,Turkey,2,1,0,0,0,0,False,False
+Euro,knockout,Spain,France,2,1,0,0,0,0,False,False
+Euro,knockout,Netherlands,England,1,2,0,0,0,0,False,False
+Euro,knockout,Spain,England,2,1,0,0,0,0,False,False

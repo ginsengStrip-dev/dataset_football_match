@@ -1,0 +1,221 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score,extra_time,penalties
+Copa,group,Colombia,Venezuela,2,0,0,0,0,0,False,False
+Copa,group,Chile,Ecuador,4,1,0,0,0,0,False,False
+Copa,group,Colombia,Ecuador,1,0,0,0,0,0,False,False
+Copa,group,Chile,Venezuela,0,2,0,0,0,0,False,False
+Copa,group,Colombia,Chile,2,0,0,0,0,0,False,False
+Copa,group,Venezuela,Ecuador,0,4,0,0,0,0,False,False
+Copa,group,Mexico,Brazil,1,0,0,0,0,0,False,False
+Copa,group,Paraguay,Peru,2,2,0,0,0,0,False,False
+Copa,group,Mexico,Peru,2,1,0,0,0,0,False,False
+Copa,group,Brazil,Paraguay,3,1,0,0,0,0,False,False
+Copa,group,Mexico,Paraguay,0,0,0,0,0,0,False,False
+Copa,group,Brazil,Peru,2,0,0,0,0,0,False,False
+Copa,group,Costa Rica,Honduras,1,0,0,0,0,0,False,False
+Copa,group,Uruguay,Bolivia,1,0,0,0,0,0,False,False
+Copa,group,Costa Rica,Bolivia,4,0,0,0,0,0,False,False
+Copa,group,Uruguay,Honduras,0,1,0,0,0,0,False,False
+Copa,group,Honduras,Bolivia,2,0,0,0,0,0,False,False
+Copa,group,Uruguay,Costa Rica,2,1,0,0,0,0,False,False
+Copa,knockout,Colombia,Peru,3,0,0,0,0,0,False,False
+Copa,knockout,Mexico,Chile,2,0,0,0,0,0,False,False
+Copa,knockout,Brazil,Honduras,0,2,0,0,0,0,False,False
+Copa,knockout,Uruguay,Costa Rica,2,1,0,0,0,0,False,False
+Copa,knockout,Colombia,Honduras,2,0,0,0,0,0,False,False
+Copa,knockout,Mexico,Uruguay,2,1,0,0,0,0,False,False
+Copa,knockout,Honduras,Uruguay,2,2,0,0,5,4,True,True
+Copa,knockout,Colombia,Mexico,1,0,0,0,0,0,False,False
+Copa,group,Peru,Bolivia,2,2,0,0,0,0,False,False
+Copa,group,Colombia,Venezuela,1,0,0,0,0,0,False,False
+Copa,group,Peru,Venezuela,3,1,0,0,0,0,False,False
+Copa,group,Colombia,Bolivia,1,0,0,0,0,0,False,False
+Copa,group,Peru,Colombia,2,2,0,0,0,0,False,False
+Copa,group,Bolivia,Venezuela,1,1,0,0,0,0,False,False
+Copa,group,Paraguay,Costa Rica,1,0,0,0,0,0,False,False
+Copa,group,Brazil,Chile,1,0,0,0,0,0,False,False
+Copa,group,Chile,Costa Rica,1,2,0,0,0,0,False,False
+Copa,group,Brazil,Paraguay,2,1,0,0,0,0,False,False
+Copa,group,Costa Rica,Brazil,2,4,0,0,0,0,False,False
+Copa,group,Paraguay,Chile,1,1,0,0,0,0,False,False
+Copa,group,Uruguay,Mexico,2,2,0,0,0,0,False,False
+Copa,group,Argentina,Ecuador,6,1,0,0,0,0,False,False
+Copa,group,Uruguay,Ecuador,2,1,0,0,0,0,False,False
+Copa,group,Mexico,Argentina,1,0,0,0,0,0,False,False
+Copa,group,Mexico,Ecuador,2,1,0,0,0,0,False,False
+Copa,group,Argentina,Uruguay,4,2,0,0,0,0,False,False
+Copa,knockout,Peru,Argentina,0,1,0,0,0,0,False,False
+Copa,knockout,Colombia,Costa Rica,2,0,0,0,0,0,False,False
+Copa,knockout,Brazil,Mexico,4,0,0,0,0,0,False,False
+Copa,knockout,Uruguay,Paraguay,3,1,0,0,0,0,False,False
+Copa,knockout,Argentina,Colombia,3,0,0,0,0,0,False,False
+Copa,knockout,Brazil,Uruguay,1,1,0,0,5,3,True,True
+Copa,knockout,Uruguay,Colombia,2,1,0,0,0,0,False,False
+Copa,knockout,Brazil,Argentina,2,2,0,0,4,2,True,True
+Copa,group,Venezuela,Bolivia,2,2,0,0,0,0,False,False
+Copa,group,Peru,Uruguay,3,0,0,0,0,0,False,False
+Copa,group,Venezuela,Peru,2,0,0,0,0,0,False,False
+Copa,group,Uruguay,Bolivia,1,0,0,0,0,0,False,False
+Copa,group,Uruguay,Venezuela,0,0,0,0,0,0,False,False
+Copa,group,Bolivia,Peru,2,2,0,0,0,0,False,False
+Copa,group,Ecuador,Chile,2,3,0,0,0,0,False,False
+Copa,group,Brazil,Mexico,0,2,0,0,0,0,False,False
+Copa,group,Brazil,Chile,3,0,0,0,0,0,False,False
+Copa,group,Mexico,Ecuador,2,1,0,0,0,0,False,False
+Copa,group,Mexico,Chile,0,0,0,0,0,0,False,False
+Copa,group,Brazil,Ecuador,1,0,0,0,0,0,False,False
+Copa,group,Paraguay,Colombia,5,0,0,0,0,0,False,False
+Copa,group,Argentina,United States,4,1,0,0,0,0,False,False
+Copa,group,Paraguay,United States,3,1,0,0,0,0,False,False
+Copa,group,Argentina,Colombia,4,2,0,0,0,0,False,False
+Copa,group,United States,Colombia,0,1,0,0,0,0,False,False
+Copa,group,Argentina,Paraguay,1,0,0,0,0,0,False,False
+Copa,knockout,Venezuela,Uruguay,1,4,0,0,0,0,False,False
+Copa,knockout,Chile,Brazil,1,6,0,0,0,0,False,False
+Copa,knockout,Mexico,Paraguay,6,0,0,0,0,0,False,False
+Copa,knockout,Argentina,Peru,4,0,0,0,0,0,False,False
+Copa,knockout,Uruguay,Brazil,2,2,0,0,4,5,True,True
+Copa,knockout,Mexico,Argentina,0,3,0,0,0,0,False,False
+Copa,knockout,Uruguay,Mexico,1,3,0,0,0,0,False,False
+Copa,knockout,Brazil,Argentina,3,0,0,0,0,0,False,False
+Copa,group,Argentina,Bolivia,1,1,0,0,0,0,False,False
+Copa,group,Colombia,Costa Rica,1,0,0,0,0,0,False,False
+Copa,group,Argentina,Colombia,0,0,0,0,0,0,False,False
+Copa,group,Bolivia,Costa Rica,0,2,0,0,0,0,False,False
+Copa,group,Argentina,Costa Rica,3,0,0,0,0,0,False,False
+Copa,group,Bolivia,Colombia,2,3,0,0,0,0,False,False
+Copa,group,Brazil,Venezuela,0,0,0,0,0,0,False,False
+Copa,group,Paraguay,Ecuador,0,0,0,0,0,0,False,False
+Copa,group,Brazil,Paraguay,2,2,0,0,0,0,False,False
+Copa,group,Venezuela,Ecuador,1,0,0,0,0,0,False,False
+Copa,group,Paraguay,Venezuela,3,3,0,0,0,0,False,False
+Copa,group,Brazil,Ecuador,4,2,0,0,0,0,False,False
+Copa,group,Uruguay,Peru,1,1,0,0,0,0,False,False
+Copa,group,Chile,Mexico,2,1,0,0,0,0,False,False
+Copa,group,Uruguay,Chile,1,1,0,0,0,0,False,False
+Copa,group,Peru,Mexico,1,0,0,0,0,0,False,False
+Copa,group,Chile,Peru,1,0,0,0,0,0,False,False
+Copa,group,Uruguay,Mexico,1,0,0,0,0,0,False,False
+Copa,knockout,Colombia,Peru,0,0,0,2,0,0,True,False
+Copa,knockout,Argentina,Uruguay,1,1,0,0,4,5,True,True
+Copa,knockout,Brazil,Paraguay,0,0,0,0,0,2,True,True
+Copa,knockout,Chile,Venezuela,1,2,0,0,0,0,False,False
+Copa,knockout,Uruguay,Peru,0,0,2,0,0,0,True,False
+Copa,knockout,Paraguay,Venezuela,0,0,0,0,5,3,True,True
+Copa,knockout,Peru,Venezuela,4,1,0,0,0,0,False,False
+Copa,knockout,Uruguay,Paraguay,3,0,0,0,0,0,False,False
+Copa,group,Chile,Ecuador,2,0,0,0,0,0,False,False
+Copa,group,Mexico,Bolivia,0,0,0,0,0,0,False,False
+Copa,group,Ecuador,Bolivia,2,3,0,0,0,0,False,False
+Copa,group,Chile,Mexico,3,3,0,0,0,0,False,False
+Copa,group,Mexico,Ecuador,1,2,0,0,0,0,False,False
+Copa,group,Chile,Bolivia,5,0,0,0,0,0,False,False
+Copa,group,Uruguay,Jamaica,1,0,0,0,0,0,False,False
+Copa,group,Argentina,Paraguay,2,2,0,0,0,0,False,False
+Copa,group,Paraguay,Jamaica,1,0,0,0,0,0,False,False
+Copa,group,Argentina,Uruguay,1,0,0,0,0,0,False,False
+Copa,group,Uruguay,Paraguay,1,1,0,0,0,0,False,False
+Copa,group,Argentina,Jamaica,1,0,0,0,0,0,False,False
+Copa,group,Colombia,Venezuela,0,1,0,0,0,0,False,False
+Copa,group,Brazil,Peru,2,1,0,0,0,0,False,False
+Copa,group,Brazil,Colombia,0,1,0,0,0,0,False,False
+Copa,group,Peru,Venezuela,1,0,0,0,0,0,False,False
+Copa,group,Colombia,Peru,0,0,0,0,0,0,False,False
+Copa,group,Brazil,Venezuela,2,1,0,0,0,0,False,False
+Copa,knockout,Chile,Uruguay,1,0,0,0,0,0,False,False
+Copa,knockout,Bolivia,Peru,1,3,0,0,0,0,False,False
+Copa,knockout,Argentina,Colombia,0,0,0,0,5,4,True,True
+Copa,knockout,Brazil,Paraguay,1,1,0,0,3,4,True,True
+Copa,knockout,Chile,Peru,2,1,0,0,0,0,False,False
+Copa,knockout,Argentina,Paraguay,6,1,0,0,0,0,False,False
+Copa,knockout,Peru,Paraguay,2,0,0,0,0,0,False,False
+Copa,knockout,Chile,Argentina,0,0,0,0,4,1,True,True
+Copa,group,United States,Colombia,0,2,0,0,0,0,False,False
+Copa,group,Costa Rica,Paraguay,0,0,0,0,0,0,False,False
+Copa,group,United States,Costa Rica,4,0,0,0,0,0,False,False
+Copa,group,Colombia,Paraguay,2,1,0,0,0,0,False,False
+Copa,group,United States,Paraguay,1,0,0,0,0,0,False,False
+Copa,group,Colombia,Costa Rica,2,3,0,0,0,0,False,False
+Copa,group,Haiti,Peru,0,1,0,0,0,0,False,False
+Copa,group,Brazil,Ecuador,0,0,0,0,0,0,False,False
+Copa,group,Ecuador,Peru,2,2,0,0,0,0,False,False
+Copa,group,Brazil,Haiti,7,1,0,0,0,0,False,False
+Copa,group,Ecuador,Haiti,4,0,0,0,0,0,False,False
+Copa,group,Peru,Brazil,1,0,0,0,0,0,False,False
+Copa,group,Jamaica,Venezuela,0,1,0,0,0,0,False,False
+Copa,group,Mexico,Uruguay,3,1,0,0,0,0,False,False
+Copa,group,Uruguay,Venezuela,0,1,0,0,0,0,False,False
+Copa,group,Mexico,Jamaica,2,0,0,0,0,0,False,False
+Copa,group,Mexico,Venezuela,1,1,0,0,0,0,False,False
+Copa,group,Uruguay,Jamaica,3,0,0,0,0,0,False,False
+Copa,group,Panama,Bolivia,2,1,0,0,0,0,False,False
+Copa,group,Argentina,Chile,2,1,0,0,0,0,False,False
+Copa,group,Chile,Bolivia,2,1,0,0,0,0,False,False
+Copa,group,Argentina,Panama,5,0,0,0,0,0,False,False
+Copa,group,Chile,Panama,4,2,0,0,0,0,False,False
+Copa,group,Argentina,Bolivia,3,0,0,0,0,0,False,False
+Copa,knockout,United States,Ecuador,2,1,0,0,0,0,False,False
+Copa,knockout,Peru,Colombia,0,0,0,0,2,4,True,True
+Copa,knockout,Argentina,Venezuela,4,1,0,0,0,0,False,False
+Copa,knockout,Mexico,Chile,0,7,0,0,0,0,False,False
+Copa,knockout,United States,Argentina,0,4,0,0,0,0,False,False
+Copa,knockout,Colombia,Chile,0,2,0,0,0,0,False,False
+Copa,knockout,United States,Colombia,0,1,0,0,0,0,False,False
+Copa,knockout,Argentina,Chile,0,0,0,0,2,4,True,True
+Copa,group,Brazil,Bolivia,3,0,0,0,0,0,False,False
+Copa,group,Venezuela,Peru,0,0,0,0,0,0,False,False
+Copa,group,Bolivia,Peru,1,3,0,0,0,0,False,False
+Copa,group,Brazil,Venezuela,0,0,0,0,0,0,False,False
+Copa,group,Bolivia,Venezuela,1,3,0,0,0,0,False,False
+Copa,group,Peru,Brazil,0,5,0,0,0,0,False,False
+Copa,group,Argentina,Colombia,0,2,0,0,0,0,False,False
+Copa,group,Paraguay,Qatar,2,2,0,0,0,0,False,False
+Copa,group,Argentina,Paraguay,1,1,0,0,0,0,False,False
+Copa,group,Colombia,Qatar,1,0,0,0,0,0,False,False
+Copa,group,Qatar,Argentina,0,2,0,0,0,0,False,False
+Copa,group,Colombia,Paraguay,1,0,0,0,0,0,False,False
+Copa,group,Uruguay,Ecuador,4,0,0,0,0,0,False,False
+Copa,group,Japan,Chile,0,4,0,0,0,0,False,False
+Copa,group,Uruguay,Japan,2,2,0,0,0,0,False,False
+Copa,group,Ecuador,Chile,1,2,0,0,0,0,False,False
+Copa,group,Ecuador,Japan,1,1,0,0,0,0,False,False
+Copa,group,Chile,Uruguay,0,1,0,0,0,0,False,False
+Copa,knockout,Brazil,Paraguay,0,0,0,0,4,3,True,True
+Copa,knockout,Venezuela,Argentina,0,2,0,0,0,0,False,False
+Copa,knockout,Colombia,Chile,0,0,0,0,4,5,True,True
+Copa,knockout,Uruguay,Peru,0,0,0,0,4,5,True,True
+Copa,knockout,Brazil,Argentina,2,0,0,0,0,0,False,False
+Copa,knockout,Chile,Peru,0,3,0,0,0,0,False,False
+Copa,knockout,Argentina,Chile,2,1,0,0,0,0,False,False
+Copa,knockout,Brazil,Peru,3,1,0,0,0,0,False,False
+Copa,group,Argentina,Canada,2,0,0,0,0,0,False,False
+Copa,group,Peru,Chile,0,0,0,0,0,0,False,False
+Copa,group,Peru,Canada,0,1,0,0,0,0,False,False
+Copa,group,Chile,Argentina,0,1,0,0,0,0,False,False
+Copa,group,Argentina,Peru,2,0,0,0,0,0,False,False
+Copa,group,Canada,Chile,0,0,0,0,0,0,False,False
+Copa,group,Ecuador,Venezuela,1,2,0,0,0,0,False,False
+Copa,group,Mexico,Jamaica,1,0,0,0,0,0,False,False
+Copa,group,Ecuador,Jamaica,3,1,0,0,0,0,False,False
+Copa,group,Venezuela,Mexico,1,0,0,0,0,0,False,False
+Copa,group,Jamaica,Venezuela,0,3,0,0,0,0,False,False
+Copa,group,Mexico,Ecuador,0,0,0,0,0,0,False,False
+Copa,group,United States,Bolivia,2,0,0,0,0,0,False,False
+Copa,group,Uruguay,Panama,3,1,0,0,0,0,False,False
+Copa,group,Panama,United States,2,1,0,0,0,0,False,False
+Copa,group,Uruguay,Bolivia,5,0,0,0,0,0,False,False
+Copa,group,Bolivia,Panama,1,3,0,0,0,0,False,False
+Copa,group,United States,Uruguay,0,1,0,0,0,0,False,False
+Copa,group,Colombia,Paraguay,2,1,0,0,0,0,False,False
+Copa,group,Brazil,Costa Rica,0,0,0,0,0,0,False,False
+Copa,group,Colombia,Costa Rica,3,0,0,0,0,0,False,False
+Copa,group,Paraguay,Brazil,1,4,0,0,0,0,False,False
+Copa,group,Brazil,Colombia,1,1,0,0,0,0,False,False
+Copa,group,Costa Rica,Paraguay,2,1,0,0,0,0,False,False
+Copa,knockout,Argentina,Ecuador,1,1,0,0,4,2,True,True
+Copa,knockout,Venezuela,Canada,1,1,0,0,3,4,True,True
+Copa,knockout,Uruguay,Brazil,0,0,0,0,4,2,True,True
+Copa,knockout,Colombia,Panama,5,0,0,0,0,0,False,False
+Copa,knockout,Argentina,Canada,2,0,0,0,0,0,False,False
+Copa,knockout,Uruguay,Colombia,0,1,0,0,0,0,False,False
+Copa,knockout,Canada,Uruguay,2,2,0,0,3,4,True,True
+Copa,knockout,Argentina,Colombia,0,0,1,0,0,0,True,False

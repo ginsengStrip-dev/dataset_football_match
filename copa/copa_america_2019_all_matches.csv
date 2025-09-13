@@ -1,0 +1,27 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score
+Copa América 2019,Group A,Brazil,Bolivia,3,0,0,0,,
+Copa América 2019,Group A,Venezuela,Peru,0,0,0,0,,
+Copa América 2019,Group A,Bolivia,Peru,1,3,0,0,,
+Copa América 2019,Group A,Brazil,Venezuela,0,0,0,0,,
+Copa América 2019,Group A,Bolivia,Venezuela,1,3,0,0,,
+Copa América 2019,Group A,Peru,Brazil,0,5,0,0,,
+Copa América 2019,Group B,Argentina,Colombia,0,2,0,0,,
+Copa América 2019,Group B,Paraguay,Qatar,2,2,0,0,,
+Copa América 2019,Group B,Argentina,Paraguay,1,1,0,0,,
+Copa América 2019,Group B,Colombia,Qatar,1,0,0,0,,
+Copa América 2019,Group B,Qatar,Argentina,0,2,0,0,,
+Copa América 2019,Group B,Colombia,Paraguay,1,0,0,0,,
+Copa América 2019,Group C,Uruguay,Ecuador,4,0,0,0,,
+Copa América 2019,Group C,Japan,Chile,0,4,0,0,,
+Copa América 2019,Group C,Uruguay,Japan,2,2,0,0,,
+Copa América 2019,Group C,Ecuador,Chile,1,2,0,0,,
+Copa América 2019,Group C,Ecuador,Japan,1,1,0,0,,
+Copa América 2019,Group C,Chile,Uruguay,0,1,0,0,,
+Copa América 2019,Quarter-final,Brazil,Paraguay,0,0,0,0,4,3
+Copa América 2019,Quarter-final,Venezuela,Argentina,0,2,0,0,,
+Copa América 2019,Quarter-final,Colombia,Chile,0,0,0,0,4,5
+Copa América 2019,Quarter-final,Uruguay,Peru,0,0,0,0,4,5
+Copa América 2019,Semi-final,Brazil,Argentina,2,0,0,0,,
+Copa América 2019,Semi-final,Chile,Peru,0,3,0,0,,
+Copa América 2019,Third place play-off,Argentina,Chile,2,1,0,0,,
+Copa América 2019,Final,Brazil,Peru,3,1,0,0,,

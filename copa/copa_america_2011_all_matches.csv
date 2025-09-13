@@ -1,0 +1,27 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score
+Copa América 2011,Group A,Argentina,Bolivia,1,1,0,0,,
+Copa América 2011,Group A,Colombia,Costa Rica,1,0,0,0,,
+Copa América 2011,Group A,Argentina,Colombia,0,0,0,0,,
+Copa América 2011,Group A,Bolivia,Costa Rica,0,2,0,0,,
+Copa América 2011,Group A,Argentina,Costa Rica,3,0,0,0,,
+Copa América 2011,Group A,Bolivia,Colombia,2,3,0,0,,
+Copa América 2011,Group B,Brazil,Venezuela,0,0,0,0,,
+Copa América 2011,Group B,Paraguay,Ecuador,0,0,0,0,,
+Copa América 2011,Group B,Brazil,Paraguay,2,2,0,0,,
+Copa América 2011,Group B,Venezuela,Ecuador,1,0,0,0,,
+Copa América 2011,Group B,Paraguay,Venezuela,3,3,0,0,,
+Copa América 2011,Group B,Brazil,Ecuador,4,2,0,0,,
+Copa América 2011,Group C,Uruguay,Peru,1,1,0,0,,
+Copa América 2011,Group C,Chile,Mexico,2,1,0,0,,
+Copa América 2011,Group C,Uruguay,Chile,1,1,0,0,,
+Copa América 2011,Group C,Peru,Mexico,1,0,0,0,,
+Copa América 2011,Group C,Chile,Peru,1,0,0,0,,
+Copa América 2011,Group C,Uruguay,Mexico,1,0,0,0,,
+Copa América 2011,Quarter-final,Colombia,Peru,0,0,0,2,,
+Copa América 2011,Quarter-final,Argentina,Uruguay,1,1,0,0,4,5
+Copa América 2011,Quarter-final,Brazil,Paraguay,0,0,0,0,0,2
+Copa América 2011,Quarter-final,Chile,Venezuela,1,2,0,0,,
+Copa América 2011,Semi-final,Uruguay,Peru,0,0,2,0,,
+Copa América 2011,Semi-final,Paraguay,Venezuela,0,0,0,0,5,3
+Copa América 2011,Third place play-off,Peru,Venezuela,4,1,0,0,,
+Copa América 2011,Final,Uruguay,Paraguay,3,0,0,0,,

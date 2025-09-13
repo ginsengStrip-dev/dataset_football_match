@@ -1,0 +1,385 @@
+tournament,match_stage,home_team,away_team,home_score,away_score,extra_time_home_score,extra_time_away_score,penalties_home_score,penalties_away_score,extra_time,penalties
+World cup,group,France,Senegal,0,1,0,0,0,0,False,False
+World cup,group,Uruguay,Denmark,1,2,0,0,0,0,False,False
+World cup,group,Denmark,Senegal,1,1,0,0,0,0,False,False
+World cup,group,France,Uruguay,0,0,0,0,0,0,False,False
+World cup,group,Denmark,France,2,0,0,0,0,0,False,False
+World cup,group,Senegal,Uruguay,3,3,0,0,0,0,False,False
+World cup,group,Paraguay,South Africa,2,2,0,0,0,0,False,False
+World cup,group,Spain,Slovenia,3,1,0,0,0,0,False,False
+World cup,group,South Africa,Slovenia,1,0,0,0,0,0,False,False
+World cup,group,Spain,Paraguay,3,1,0,0,0,0,False,False
+World cup,group,South Africa,Spain,2,3,0,0,0,0,False,False
+World cup,group,Slovenia,Paraguay,1,3,0,0,0,0,False,False
+World cup,group,Brazil,Turkey,2,1,0,0,0,0,False,False
+World cup,group,China,Costa Rica,0,2,0,0,0,0,False,False
+World cup,group,Costa Rica,Turkey,1,1,0,0,0,0,False,False
+World cup,group,Brazil,China,4,0,0,0,0,0,False,False
+World cup,group,Costa Rica,Brazil,2,5,0,0,0,0,False,False
+World cup,group,Turkey,China,3,0,0,0,0,0,False,False
+World cup,group,South Korea,Poland,2,0,0,0,0,0,False,False
+World cup,group,USA,Portugal,3,2,0,0,0,0,False,False
+World cup,group,South Korea,USA,1,1,0,0,0,0,False,False
+World cup,group,Portugal,Poland,4,0,0,0,0,0,False,False
+World cup,group,Portugal,South Korea,0,1,0,0,0,0,False,False
+World cup,group,Poland,USA,3,1,0,0,0,0,False,False
+World cup,group,Germany,Saudi Arabia,8,0,0,0,0,0,False,False
+World cup,group,Ireland,Cameroon,1,1,0,0,0,0,False,False
+World cup,group,Cameroon,Saudi Arabia,1,0,0,0,0,0,False,False
+World cup,group,Germany,Ireland,1,1,0,0,0,0,False,False
+World cup,group,Saudi Arabia,Ireland,0,3,0,0,0,0,False,False
+World cup,group,Cameroon,Germany,0,2,0,0,0,0,False,False
+World cup,group,Argentina,Nigeria,1,0,0,0,0,0,False,False
+World cup,group,England,Sweden,1,1,0,0,0,0,False,False
+World cup,group,Sweden,Nigeria,2,1,0,0,0,0,False,False
+World cup,group,Argentina,England,0,1,0,0,0,0,False,False
+World cup,group,Sweden,Argentina,1,1,0,0,0,0,False,False
+World cup,group,Nigeria,England,0,0,0,0,0,0,False,False
+World cup,group,Croatia,Mexico,0,1,0,0,0,0,False,False
+World cup,group,Italy,Ecuador,2,0,0,0,0,0,False,False
+World cup,group,Italy,Croatia,1,2,0,0,0,0,False,False
+World cup,group,Mexico,Ecuador,2,1,0,0,0,0,False,False
+World cup,group,Mexico,Italy,1,1,0,0,0,0,False,False
+World cup,group,Ecuador,Croatia,1,0,0,0,0,0,False,False
+World cup,group,Japan,Belgium,2,2,0,0,0,0,False,False
+World cup,group,Russia,Tunisia,2,0,0,0,0,0,False,False
+World cup,group,Japan,Russia,1,0,0,0,0,0,False,False
+World cup,group,Tunisia,Belgium,1,1,0,0,0,0,False,False
+World cup,group,Tunisia,Japan,0,2,0,0,0,0,False,False
+World cup,group,Belgium,Russia,3,2,0,0,0,0,False,False
+World cup,knockout,Germany,Paraguay,1,0,0,0,0,0,False,False
+World cup,knockout,Denmark,England,0,3,0,0,0,0,False,False
+World cup,knockout,Sweden,Senegal,1,1,0,1,0,0,True,False
+World cup,knockout,Spain,Ireland,1,1,0,0,3,2,True,True
+World cup,knockout,Mexico,USA,0,2,0,0,0,0,False,False
+World cup,knockout,Brazil,Belgium,2,0,0,0,0,0,False,False
+World cup,knockout,Japan,Turkey,0,1,0,0,0,0,False,False
+World cup,knockout,South Korea,Italy,1,1,1,0,0,0,True,False
+World cup,knockout,England,Brazil,1,2,0,0,0,0,False,False
+World cup,knockout,Germany,USA,1,0,0,0,0,0,False,False
+World cup,knockout,Senegal,Turkey,0,0,0,1,0,0,True,False
+World cup,knockout,South Korea,Spain,0,0,0,0,5,3,True,True
+World cup,knockout,Germany,South Korea,1,0,0,0,0,0,False,False
+World cup,knockout,Brazil,Turkey,1,0,0,0,0,0,False,False
+World cup,knockout,South Korea,Turkey,2,3,0,0,0,0,False,False
+World cup,knockout,Brazil,Germany,2,0,0,0,0,0,False,False
+World cup,group,Germany,Costa Rica,4,2,0,0,0,0,False,False
+World cup,group,Poland,Ecuador,0,2,0,0,0,0,False,False
+World cup,group,Germany,Poland,1,0,0,0,0,0,False,False
+World cup,group,Ecuador,Costa Rica,3,0,0,0,0,0,False,False
+World cup,group,Ecuador,Germany,0,3,0,0,0,0,False,False
+World cup,group,Costa Rica,Poland,1,2,0,0,0,0,False,False
+World cup,group,England,Paraguay,1,0,0,0,0,0,False,False
+World cup,group,Trinidad and Tobago,Sweden,0,0,0,0,0,0,False,False
+World cup,group,England,Trinidad and Tobago,2,0,0,0,0,0,False,False
+World cup,group,Sweden,Paraguay,1,0,0,0,0,0,False,False
+World cup,group,Sweden,England,2,2,0,0,0,0,False,False
+World cup,group,Paraguay,Trinidad and Tobago,2,0,0,0,0,0,False,False
+World cup,group,Argentina,Ivory Coast,2,1,0,0,0,0,False,False
+World cup,group,Serbia and Montenegro,Netherlands,0,1,0,0,0,0,False,False
+World cup,group,Argentina,Serbia and Montenegro,6,0,0,0,0,0,False,False
+World cup,group,Netherlands,Ivory Coast,2,1,0,0,0,0,False,False
+World cup,group,Netherlands,Argentina,0,0,0,0,0,0,False,False
+World cup,group,Ivory Coast,Serbia and Montenegro,3,2,0,0,0,0,False,False
+World cup,group,Mexico,Iran,3,1,0,0,0,0,False,False
+World cup,group,Angola,Portugal,0,1,0,0,0,0,False,False
+World cup,group,Mexico,Angola,0,0,0,0,0,0,False,False
+World cup,group,Portugal,Iran,2,0,0,0,0,0,False,False
+World cup,group,Portugal,Mexico,2,1,0,0,0,0,False,False
+World cup,group,Iran,Angola,1,1,0,0,0,0,False,False
+World cup,group,Italy,Ghana,2,0,0,0,0,0,False,False
+World cup,group,USA,Czech Republic,0,3,0,0,0,0,False,False
+World cup,group,Italy,USA,1,1,0,0,0,0,False,False
+World cup,group,Czech Republic,Ghana,0,2,0,0,0,0,False,False
+World cup,group,Czech Republic,Italy,0,2,0,0,0,0,False,False
+World cup,group,Ghana,USA,2,1,0,0,0,0,False,False
+World cup,group,Australia,Japan,3,1,0,0,0,0,False,False
+World cup,group,Brazil,Croatia,1,0,0,0,0,0,False,False
+World cup,group,Japan,Croatia,0,0,0,0,0,0,False,False
+World cup,group,Brazil,Australia,2,0,0,0,0,0,False,False
+World cup,group,Japan,Brazil,1,4,0,0,0,0,False,False
+World cup,group,Croatia,Australia,2,2,0,0,0,0,False,False
+World cup,group,South Korea,Togo,2,1,0,0,0,0,False,False
+World cup,group,France,Switzerland,0,0,0,0,0,0,False,False
+World cup,group,France,South Korea,1,1,0,0,0,0,False,False
+World cup,group,Togo,Switzerland,0,2,0,0,0,0,False,False
+World cup,group,Togo,France,0,2,0,0,0,0,False,False
+World cup,group,Switzerland,South Korea,2,0,0,0,0,0,False,False
+World cup,group,Spain,Ukraine,4,0,0,0,0,0,False,False
+World cup,group,Tunisia,Saudi Arabia,2,2,0,0,0,0,False,False
+World cup,group,Spain,Tunisia,3,1,0,0,0,0,False,False
+World cup,group,Saudi Arabia,Ukraine,0,4,0,0,0,0,False,False
+World cup,group,Saudi Arabia,Spain,0,1,0,0,0,0,False,False
+World cup,group,Ukraine,Tunisia,1,0,0,0,0,0,False,False
+World cup,knockout,Germany,Sweden,2,0,0,0,0,0,False,False
+World cup,knockout,Argentina,Mexico,1,1,1,0,0,0,True,False
+World cup,knockout,England,Ecuador,1,0,0,0,0,0,False,False
+World cup,knockout,Portugal,Netherlands,1,0,0,0,0,0,False,False
+World cup,knockout,Italy,Australia,0,0,1,0,0,0,True,False
+World cup,knockout,Switzerland,Ukraine,0,0,0,0,0,3,True,True
+World cup,knockout,Brazil,Ghana,3,0,0,0,0,0,False,False
+World cup,knockout,Spain,France,1,3,0,0,0,0,False,False
+World cup,knockout,Germany,Argentina,1,1,0,0,4,2,True,True
+World cup,knockout,Italy,Ukraine,3,0,0,0,0,0,False,False
+World cup,knockout,England,Portugal,0,0,0,0,1,3,True,True
+World cup,knockout,Brazil,France,0,1,0,0,0,0,False,False
+World cup,knockout,Germany,Italy,0,0,0,2,0,0,True,False
+World cup,knockout,Portugal,France,0,1,0,0,0,0,False,False
+World cup,knockout,Germany,Portugal,3,1,0,0,0,0,False,False
+World cup,knockout,Italy,France,1,1,0,0,5,3,True,True
+World cup,group,South Africa,Mexico,1,1,0,0,0,0,False,False
+World cup,group,Uruguay,France,0,0,0,0,0,0,False,False
+World cup,group,South Africa,Uruguay,0,3,0,0,0,0,False,False
+World cup,group,France,Mexico,0,2,0,0,0,0,False,False
+World cup,group,Mexico,Uruguay,0,1,0,0,0,0,False,False
+World cup,group,France,South Africa,1,2,0,0,0,0,False,False
+World cup,group,South Korea,Greece,2,0,0,0,0,0,False,False
+World cup,group,Argentina,Nigeria,1,0,0,0,0,0,False,False
+World cup,group,Argentina,South Korea,4,1,0,0,0,0,False,False
+World cup,group,Greece,Nigeria,2,1,0,0,0,0,False,False
+World cup,group,Nigeria,South Korea,2,2,0,0,0,0,False,False
+World cup,group,Greece,Argentina,0,2,0,0,0,0,False,False
+World cup,group,England,USA,1,1,0,0,0,0,False,False
+World cup,group,Algeria,Slovenia,0,1,0,0,0,0,False,False
+World cup,group,Slovenia,USA,2,2,0,0,0,0,False,False
+World cup,group,England,Algeria,0,0,0,0,0,0,False,False
+World cup,group,Slovenia,England,0,1,0,0,0,0,False,False
+World cup,group,USA,Algeria,1,0,0,0,0,0,False,False
+World cup,group,Germany,Australia,4,0,0,0,0,0,False,False
+World cup,group,Serbia,Ghana,0,1,0,0,0,0,False,False
+World cup,group,Germany,Serbia,0,1,0,0,0,0,False,False
+World cup,group,Ghana,Australia,1,1,0,0,0,0,False,False
+World cup,group,Ghana,Germany,0,1,0,0,0,0,False,False
+World cup,group,Australia,Serbia,2,1,0,0,0,0,False,False
+World cup,group,Netherlands,Denmark,2,0,0,0,0,0,False,False
+World cup,group,Japan,Cameroon,1,0,0,0,0,0,False,False
+World cup,group,Netherlands,Japan,1,0,0,0,0,0,False,False
+World cup,group,Cameroon,Denmark,1,2,0,0,0,0,False,False
+World cup,group,Denmark,Japan,1,3,0,0,0,0,False,False
+World cup,group,Cameroon,Netherlands,1,2,0,0,0,0,False,False
+World cup,group,Italy,Paraguay,1,1,0,0,0,0,False,False
+World cup,group,New Zealand,Slovakia,1,1,0,0,0,0,False,False
+World cup,group,Slovakia,Paraguay,0,2,0,0,0,0,False,False
+World cup,group,Italy,New Zealand,1,1,0,0,0,0,False,False
+World cup,group,Slovakia,Italy,3,2,0,0,0,0,False,False
+World cup,group,Paraguay,New Zealand,0,0,0,0,0,0,False,False
+World cup,group,Ivory Coast,Portugal,0,0,0,0,0,0,False,False
+World cup,group,Brazil,North Korea,2,1,0,0,0,0,False,False
+World cup,group,Brazil,Ivory Coast,3,1,0,0,0,0,False,False
+World cup,group,Portugal,North Korea,7,0,0,0,0,0,False,False
+World cup,group,Portugal,Brazil,0,0,0,0,0,0,False,False
+World cup,group,North Korea,Ivory Coast,0,3,0,0,0,0,False,False
+World cup,group,Honduras,Chile,0,1,0,0,0,0,False,False
+World cup,group,Spain,Switzerland,0,1,0,0,0,0,False,False
+World cup,group,Chile,Switzerland,1,0,0,0,0,0,False,False
+World cup,group,Spain,Honduras,2,0,0,0,0,0,False,False
+World cup,group,Chile,Spain,1,2,0,0,0,0,False,False
+World cup,group,Switzerland,Honduras,0,0,0,0,0,0,False,False
+World cup,knockout,Uruguay,South Korea,2,1,0,0,0,0,False,False
+World cup,knockout,USA,Ghana,1,1,0,0,0,0,False,False
+World cup,knockout,Germany,England,4,1,0,0,0,0,False,False
+World cup,knockout,Argentina,Mexico,3,1,0,0,0,0,False,False
+World cup,knockout,Netherlands,Slovakia,2,1,0,0,0,0,False,False
+World cup,knockout,Brazil,Chile,3,0,0,0,0,0,False,False
+World cup,knockout,Paraguay,Japan,0,0,0,0,5,3,True,True
+World cup,knockout,Spain,Portugal,1,0,0,0,0,0,False,False
+World cup,knockout,Netherlands,Brazil,2,1,0,0,0,0,False,False
+World cup,knockout,Uruguay,Ghana,1,1,0,0,4,2,True,True
+World cup,knockout,Argentina,Germany,0,4,0,0,0,0,False,False
+World cup,knockout,Paraguay,Spain,0,1,0,0,0,0,False,False
+World cup,knockout,Uruguay,Netherlands,2,3,0,0,0,0,False,False
+World cup,knockout,Germany,Spain,0,1,0,0,0,0,False,False
+World cup,knockout,Uruguay,Germany,2,3,0,0,0,0,False,False
+World cup,knockout,Netherlands,Spain,0,0,0,1,0,0,True,False
+World cup,group,Brazil,Croatia,3,1,0,0,0,0,False,False
+World cup,group,Mexico,Cameroon,1,0,0,0,0,0,False,False
+World cup,group,Brazil,Mexico,0,0,0,0,0,0,False,False
+World cup,group,Cameroon,Croatia,0,4,0,0,0,0,False,False
+World cup,group,Cameroon,Brazil,1,4,0,0,0,0,False,False
+World cup,group,Croatia,Mexico,1,3,0,0,0,0,False,False
+World cup,group,Spain,Netherlands,1,5,0,0,0,0,False,False
+World cup,group,Chile,Australia,3,1,0,0,0,0,False,False
+World cup,group,Australia,Netherlands,2,3,0,0,0,0,False,False
+World cup,group,Spain,Chile,0,2,0,0,0,0,False,False
+World cup,group,Australia,Spain,0,3,0,0,0,0,False,False
+World cup,group,Netherlands,Chile,2,0,0,0,0,0,False,False
+World cup,group,Colombia,Greece,3,0,0,0,0,0,False,False
+World cup,group,Ivory Coast,Japan,2,1,0,0,0,0,False,False
+World cup,group,Colombia,Ivory Coast,2,1,0,0,0,0,False,False
+World cup,group,Japan,Greece,0,0,0,0,0,0,False,False
+World cup,group,Japan,Colombia,1,4,0,0,0,0,False,False
+World cup,group,Greece,Ivory Coast,2,1,0,0,0,0,False,False
+World cup,group,Uruguay,Costa Rica,1,3,0,0,0,0,False,False
+World cup,group,England,Italy,1,2,0,0,0,0,False,False
+World cup,group,Uruguay,England,2,1,0,0,0,0,False,False
+World cup,group,Italy,Costa Rica,0,1,0,0,0,0,False,False
+World cup,group,Italy,Uruguay,0,1,0,0,0,0,False,False
+World cup,group,Costa Rica,England,0,0,0,0,0,0,False,False
+World cup,group,Switzerland,Ecuador,2,1,0,0,0,0,False,False
+World cup,group,France,Honduras,3,0,0,0,0,0,False,False
+World cup,group,Switzerland,France,2,5,0,0,0,0,False,False
+World cup,group,Honduras,Ecuador,1,2,0,0,0,0,False,False
+World cup,group,Honduras,Switzerland,0,3,0,0,0,0,False,False
+World cup,group,Ecuador,France,0,0,0,0,0,0,False,False
+World cup,group,Argentina,Bosnia and Herzegovina,2,1,0,0,0,0,False,False
+World cup,group,Iran,Nigeria,0,0,0,0,0,0,False,False
+World cup,group,Argentina,Iran,1,0,0,0,0,0,False,False
+World cup,group,Nigeria,Bosnia and Herzegovina,1,0,0,0,0,0,False,False
+World cup,group,Nigeria,Argentina,2,3,0,0,0,0,False,False
+World cup,group,Bosnia and Herzegovina,Iran,3,1,0,0,0,0,False,False
+World cup,group,Germany,Portugal,4,0,0,0,0,0,False,False
+World cup,group,Ghana,USA,1,2,0,0,0,0,False,False
+World cup,group,Germany,Ghana,2,2,0,0,0,0,False,False
+World cup,group,USA,Portugal,2,2,0,0,0,0,False,False
+World cup,group,USA,Germany,0,1,0,0,0,0,False,False
+World cup,group,Portugal,Ghana,2,1,0,0,0,0,False,False
+World cup,group,Belgium,Algeria,2,1,0,0,0,0,False,False
+World cup,group,Russia,South Korea,1,1,0,0,0,0,False,False
+World cup,group,Belgium,Russia,1,0,0,0,0,0,False,False
+World cup,group,South Korea,Algeria,2,4,0,0,0,0,False,False
+World cup,group,South Korea,Belgium,0,1,0,0,0,0,False,False
+World cup,group,Algeria,Russia,1,1,0,0,0,0,False,False
+World cup,knockout,Brazil,Chile,1,1,0,0,3,2,True,True
+World cup,knockout,Colombia,Uruguay,2,0,0,0,0,0,False,False
+World cup,knockout,France,Nigeria,2,0,0,0,0,0,False,False
+World cup,knockout,Germany,Algeria,0,0,2,1,0,0,True,False
+World cup,knockout,Netherlands,Mexico,2,1,0,0,0,0,False,False
+World cup,knockout,Costa Rica,Greece,1,1,0,0,5,3,True,True
+World cup,knockout,Argentina,Switzerland,0,0,1,0,0,0,True,False
+World cup,knockout,Belgium,USA,2,2,1,1,0,0,True,False
+World cup,knockout,France,Germany,0,1,0,0,0,0,False,False
+World cup,knockout,Brazil,Colombia,2,1,0,0,0,0,False,False
+World cup,knockout,Argentina,Belgium,1,0,0,0,0,0,False,False
+World cup,knockout,Netherlands,Costa Rica,0,0,0,0,4,3,True,True
+World cup,knockout,Brazil,Germany,1,7,0,0,0,0,False,False
+World cup,knockout,Netherlands,Argentina,0,0,0,0,2,4,True,True
+World cup,knockout,Brazil,Netherlands,0,3,0,0,0,0,False,False
+World cup,knockout,Germany,Argentina,0,0,1,0,0,0,True,False
+World cup,group,Russia,Saudi Arabia,5,0,0,0,0,0,False,False
+World cup,group,Egypt,Uruguay,0,1,0,0,0,0,False,False
+World cup,group,Russia,Egypt,3,1,0,0,0,0,False,False
+World cup,group,Uruguay,Saudi Arabia,1,0,0,0,0,0,False,False
+World cup,group,Uruguay,Russia,3,0,0,0,0,0,False,False
+World cup,group,Saudi Arabia,Egypt,2,1,0,0,0,0,False,False
+World cup,group,Morocco,Iran,0,1,0,0,0,0,False,False
+World cup,group,Portugal,Spain,3,3,0,0,0,0,False,False
+World cup,group,Portugal,Morocco,1,0,0,0,0,0,False,False
+World cup,group,Iran,Spain,0,1,0,0,0,0,False,False
+World cup,group,Iran,Portugal,1,1,0,0,0,0,False,False
+World cup,group,Spain,Morocco,2,2,0,0,0,0,False,False
+World cup,group,France,Australia,2,1,0,0,0,0,False,False
+World cup,group,Peru,Denmark,0,1,0,0,0,0,False,False
+World cup,group,Denmark,Australia,1,1,0,0,0,0,False,False
+World cup,group,France,Peru,1,0,0,0,0,0,False,False
+World cup,group,Denmark,France,0,0,0,0,0,0,False,False
+World cup,group,Australia,Peru,0,2,0,0,0,0,False,False
+World cup,group,Argentina,Iceland,1,1,0,0,0,0,False,False
+World cup,group,Croatia,Nigeria,2,0,0,0,0,0,False,False
+World cup,group,Argentina,Croatia,0,3,0,0,0,0,False,False
+World cup,group,Nigeria,Iceland,2,0,0,0,0,0,False,False
+World cup,group,Nigeria,Argentina,1,2,0,0,0,0,False,False
+World cup,group,Iceland,Croatia,1,2,0,0,0,0,False,False
+World cup,group,Costa Rica,Serbia,0,1,0,0,0,0,False,False
+World cup,group,Brazil,Switzerland,1,1,0,0,0,0,False,False
+World cup,group,Brazil,Costa Rica,2,0,0,0,0,0,False,False
+World cup,group,Serbia,Switzerland,1,2,0,0,0,0,False,False
+World cup,group,Serbia,Brazil,0,2,0,0,0,0,False,False
+World cup,group,Switzerland,Costa Rica,2,2,0,0,0,0,False,False
+World cup,group,Germany,Mexico,0,1,0,0,0,0,False,False
+World cup,group,Sweden,South Korea,1,0,0,0,0,0,False,False
+World cup,group,South Korea,Mexico,1,2,0,0,0,0,False,False
+World cup,group,Germany,Sweden,2,1,0,0,0,0,False,False
+World cup,group,South Korea,Germany,2,0,0,0,0,0,False,False
+World cup,group,Mexico,Sweden,0,3,0,0,0,0,False,False
+World cup,group,Belgium,Panama,3,0,0,0,0,0,False,False
+World cup,group,Tunisia,England,1,2,0,0,0,0,False,False
+World cup,group,Belgium,Tunisia,5,2,0,0,0,0,False,False
+World cup,group,England,Panama,6,1,0,0,0,0,False,False
+World cup,group,England,Belgium,0,1,0,0,0,0,False,False
+World cup,group,Panama,Tunisia,1,2,0,0,0,0,False,False
+World cup,group,Colombia,Japan,1,2,0,0,0,0,False,False
+World cup,group,Poland,Senegal,1,2,0,0,0,0,False,False
+World cup,group,Japan,Senegal,2,2,0,0,0,0,False,False
+World cup,group,Poland,Colombia,0,3,0,0,0,0,False,False
+World cup,group,Japan,Poland,0,1,0,0,0,0,False,False
+World cup,group,Senegal,Colombia,0,1,0,0,0,0,False,False
+World cup,knockout,France,Argentina,4,3,0,0,0,0,False,False
+World cup,knockout,Uruguay,Portugal,2,1,0,0,0,0,False,False
+World cup,knockout,Spain,Russia,1,1,0,0,3,4,True,True
+World cup,knockout,Croatia,Denmark,1,1,0,0,3,2,True,True
+World cup,knockout,Brazil,Mexico,2,0,0,0,0,0,False,False
+World cup,knockout,Belgium,Japan,3,2,0,0,0,0,False,False
+World cup,knockout,Sweden,Switzerland,1,0,0,0,0,0,False,False
+World cup,knockout,Colombia,England,1,1,0,0,3,4,True,True
+World cup,knockout,Uruguay,France,0,2,0,0,0,0,False,False
+World cup,knockout,Brazil,Belgium,1,2,0,0,0,0,False,False
+World cup,knockout,Sweden,England,0,2,0,0,0,0,False,False
+World cup,knockout,Russia,Croatia,2,2,0,0,3,4,True,True
+World cup,knockout,France,Belgium,1,0,0,0,0,0,False,False
+World cup,knockout,Croatia,England,1,1,1,0,0,0,True,False
+World cup,knockout,Belgium,England,2,0,0,0,0,0,False,False
+World cup,knockout,France,Croatia,4,2,0,0,0,0,False,False
+World cup,group,Qatar,Ecuador,0,2,0,0,0,0,False,False
+World cup,group,Senegal,Netherlands,0,1,0,0,0,0,False,False
+World cup,group,Qatar,Senegal,1,3,0,0,0,0,False,False
+World cup,group,Netherlands,Ecuador,1,1,0,0,0,0,False,False
+World cup,group,Ecuador,Senegal,1,2,0,0,0,0,False,False
+World cup,group,Netherlands,Qatar,2,0,0,0,0,0,False,False
+World cup,group,England,Iran,6,2,0,0,0,0,False,False
+World cup,group,USA,Wales,1,1,0,0,0,0,False,False
+World cup,group,Wales,Iran,0,2,0,0,0,0,False,False
+World cup,group,England,USA,0,0,0,0,0,0,False,False
+World cup,group,Iran,USA,0,1,0,0,0,0,False,False
+World cup,group,Wales,England,0,3,0,0,0,0,False,False
+World cup,group,Argentina,Saudi Arabia,1,2,0,0,0,0,False,False
+World cup,group,Mexico,Poland,0,0,0,0,0,0,False,False
+World cup,group,Poland,Saudi Arabia,2,0,0,0,0,0,False,False
+World cup,group,Argentina,Mexico,2,0,0,0,0,0,False,False
+World cup,group,Saudi Arabia,Mexico,1,2,0,0,0,0,False,False
+World cup,group,Poland,Argentina,0,2,0,0,0,0,False,False
+World cup,group,Denmark,Tunisia,0,0,0,0,0,0,False,False
+World cup,group,France,Australia,4,1,0,0,0,0,False,False
+World cup,group,Tunisia,Australia,0,1,0,0,0,0,False,False
+World cup,group,France,Denmark,2,1,0,0,0,0,False,False
+World cup,group,Australia,Denmark,1,0,0,0,0,0,False,False
+World cup,group,Tunisia,France,1,0,0,0,0,0,False,False
+World cup,group,Germany,Japan,1,2,0,0,0,0,False,False
+World cup,group,Spain,Costa Rica,7,0,0,0,0,0,False,False
+World cup,group,Japan,Costa Rica,0,1,0,0,0,0,False,False
+World cup,group,Spain,Germany,1,1,0,0,0,0,False,False
+World cup,group,Costa Rica,Germany,2,4,0,0,0,0,False,False
+World cup,group,Japan,Spain,2,1,0,0,0,0,False,False
+World cup,group,Morocco,Croatia,0,0,0,0,0,0,False,False
+World cup,group,Belgium,Canada,1,0,0,0,0,0,False,False
+World cup,group,Belgium,Morocco,0,2,0,0,0,0,False,False
+World cup,group,Croatia,Canada,4,1,0,0,0,0,False,False
+World cup,group,Canada,Morocco,1,2,0,0,0,0,False,False
+World cup,group,Croatia,Belgium,0,0,0,0,0,0,False,False
+World cup,group,Switzerland,Cameroon,1,0,0,0,0,0,False,False
+World cup,group,Brazil,Serbia,2,0,0,0,0,0,False,False
+World cup,group,Cameroon,Serbia,3,3,0,0,0,0,False,False
+World cup,group,Brazil,Switzerland,1,0,0,0,0,0,False,False
+World cup,group,Serbia,Switzerland,2,3,0,0,0,0,False,False
+World cup,group,Cameroon,Brazil,1,0,0,0,0,0,False,False
+World cup,group,Uruguay,South Korea,0,0,0,0,0,0,False,False
+World cup,group,Portugal,Ghana,3,2,0,0,0,0,False,False
+World cup,group,South Korea,Ghana,2,3,0,0,0,0,False,False
+World cup,group,Portugal,Uruguay,2,0,0,0,0,0,False,False
+World cup,group,Ghana,Uruguay,0,2,0,0,0,0,False,False
+World cup,group,South Korea,Portugal,2,1,0,0,0,0,False,False
+World cup,knockout,Netherlands,USA,3,1,0,0,0,0,False,False
+World cup,knockout,Argentina,Australia,2,1,0,0,0,0,False,False
+World cup,knockout,France,Poland,3,1,0,0,0,0,False,False
+World cup,knockout,England,Senegal,3,0,0,0,0,0,False,False
+World cup,knockout,Japan,Croatia,1,1,0,0,1,3,True,True
+World cup,knockout,Brazil,South Korea,4,1,0,0,0,0,False,False
+World cup,knockout,Morocco,Spain,0,0,0,0,3,0,True,True
+World cup,knockout,Portugal,Switzerland,6,1,0,0,0,0,False,False
+World cup,knockout,Croatia,Brazil,1,1,0,0,4,2,True,True
+World cup,knockout,Netherlands,Argentina,2,2,0,0,3,4,True,True
+World cup,knockout,Morocco,Portugal,1,0,0,0,0,0,False,False
+World cup,knockout,England,France,1,2,0,0,0,0,False,False
+World cup,knockout,Argentina,Croatia,3,0,0,0,0,0,False,False
+World cup,knockout,France,Morocco,2,0,0,0,0,0,False,False
+World cup,knockout,Croatia,Morocco,2,1,0,0,0,0,False,False
+World cup,knockout,Argentina,France,2,2,1,1,4,2,True,True
